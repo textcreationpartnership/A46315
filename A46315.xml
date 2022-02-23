@@ -1,0 +1,790 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Abraham's death, the manner, time, and consequent of it opened and applied in a funeral sermon preached upon the death of the Reverend Mr. Thomas Case ... June 14th, 1682 : with a narrative of his life and death / by Thomas Jacomb ...</title>
+            <author>Jacombe, Thomas, 1622-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 116 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46315</idno>
+            <idno type="STC">Wing J111</idno>
+            <idno type="STC">ESTC R11297</idno>
+            <idno type="EEBO-CITATION">12830614</idno>
+            <idno type="OCLC">ocm 12830614</idno>
+            <idno type="VID">94322</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94322)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 385:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Abraham's death, the manner, time, and consequent of it opened and applied in a funeral sermon preached upon the death of the Reverend Mr. Thomas Case ... June 14th, 1682 : with a narrative of his life and death / by Thomas Jacomb ...</title>
+                  <author>Jacombe, Thomas, 1622-1687.</author>
+               </titleStmt>
+               <extent>[4], 55 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Brabrazon [sic] Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Abraham --  (Biblical patriarch)</term>
+               <term>Case, Thomas, 1598-1682.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94322:1" rendition="simple:additions"/>
+            <p>
+               <hi>Abraham's Death,</hi> THE MANNER, TIME, and CONSE<g ref="char:EOLhyphen"/>QUENT of it. Opened and Applied IN A FUNERAL SERMON, Preached upon the Death Of the Reverend Mr. <hi>THOMAS CASE,</hi> Miniſter of the Goſpel.</p>
+            <p>
+               <hi>June</hi> 14th, 1682. With a Narrative of his LIFE and DEATH.</p>
+            <p>By <hi>THOMAS JACOMB,</hi> D. D.</p>
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>Brabrazon Aylmer,</hi> at the three Pigeons againſt the Royal Exchange in <hi>Cornhill,</hi> 1682.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:94322:2"/>
+            <pb facs="tcp:94322:2" rendition="simple:additions"/>
+            <head>To Mrs. <hi>Anne Caſe,</hi> Wife to the Reverend Mr. <hi>THOMAS CASE,</hi> Miniſter of the Goſpel, lately deceaſed.</head>
+            <opener>
+               <salute>Much Honoured Friend,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T was the reiterated Requeſt of your Dear Hus<g ref="char:EOLhyphen"/>band, (and my worthy Friend), that I would perform the laſt Office of Reſpect to him in the preaching of his <hi>Funeral Sermon,</hi> when-ever it ſhould pleaſe God to take him hence. And this Requeſt of him (whilſt living), your ſelf was pleaſed to back after his Death.</p>
+            <p>I have again and again publickly teſtified my Averſeneſs from engaging in Services of this Nature; and (poſſibly) as to enga<g ref="char:EOLhyphen"/>ging in <hi>this,</hi> there were ſome ſpecial Reaſons and Conſiderations to heighten my Averſeneſs. Yet, conſidering how I was preſſed to it, by the Deſires both of the Dead and of the Living; I thought, I ſhould be diſingenuous and defective in the Obligations of Friendſhip, if I did not comply with them; which therefore accordingly I did.</p>
+            <p>Having diſcharg'd the <hi>Preaching</hi> Part, you further deſired me to <hi>publiſh</hi> what I had preached. To gratify you in that, I was the more inclinable, becauſe I had left things in the <hi>Sermon</hi> ſo imperfect and unfiniſh'd; (for I had not time to go through a conſiderable part of what I had to ſay, both upon the <hi>Text,</hi> and alſo upon the <hi>Occaſi<g ref="char:EOLhyphen"/>on</hi>). The Truth is, while I graſpt at too much, I did nothing (to purpoſe); and therefore was willing to do what you deſired, that I might have an Opportunity of filling up what then was wanting.</p>
+            <p>I am very ſenſible what a Captious and Litigious Age we live in, how Diviſions and Animoſities do abound amongſt us, how hard a mat<g ref="char:EOLhyphen"/>ter it is for One to commend One of his Party, (eſpecially if he be of any <hi>conſiderable Eminency</hi> therein); but ſome or other of a differing Party will be finding fault, and picking out ſomething to be the matter and ground of ſevere Cenſures. If this ſhall be my lot, I muſt ſubmit;
+<pb facs="tcp:94322:3"/>but I have done whatever I could to prevent it<g ref="char:punc">▪</g> For I have ſo commended the Perſon diſcourſed of, as not in the leaſt to reflect up<g ref="char:EOLhyphen"/>on any others of a different Perſwaſion. And as to the commanding of him too, I have not done is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; but all along, (to the beſt of my Knowledg <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> kept with in the ſtrict Bounds of Truth and Juſtice. Yea, to avoid <hi>Partiality</hi> and <hi>Flattery</hi> (the too common Attendants of <hi>Funeral Sermons</hi>), I have, (with all due Modeſty), taken notice of his <hi>Infirmities</hi> as well as of his <hi>Excellencies.</hi> If all this will not <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, I hope I ſhall bear them with Patience, (if not with Contempt).</p>
+            <p>How many <hi>Funeral Sermons</hi> did your dear Husband live to preach for others! here is now one preached for himſelf; and God knows how ſoon ſome may do that for me, which I have now done for him. We live in a <hi>fluid</hi> State, and have <hi>no Abiding</hi> hare. No ſooner had I diſpatch'd what I had to do upon the Death of <hi>this Friend,</hi> but God threatens me with the Death of <hi>Another;</hi> (a most Eminent Perſon of <hi>another Profeſſion</hi>): <hi>Vanity of Vanities, all is Vanity!</hi>
+            </p>
+            <p>The Lord bleſs you and yours; and grant you all to reap the Benefit of thoſe many, many fervent Prayers, which he (who is gone) ſent up to the Throne of Grace daily for you. All that I ſhall further ſay it, but to aſſure you, that now you are deprived of the Prayers of the Dead; you ſhall ever have the hearty Prayers of him, who whilſt he lives, ſhall be ready upon all occaſions to ſhew himſelf,</p>
+            <closer>
+               <signed>
+                  <hi>Your Servant and Friend in Chriſt,</hi> Tho. Jacomb.</signed> 
+               <date>
+                  <hi>July 21, 1682.</hi>
+               </date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:94322:3"/>
+            <head>Abraham's Death.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>GEN. 25.8.</hi>
+                  </bibl>
+                  <p>Then <hi>Abraham</hi> gave up the Ghost, and died in a good old Age, an old Man, and full of Years, and was gathered to his People.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE Words, give us a brief Hiſtorical Ac<g ref="char:EOLhyphen"/>count of the <hi>Death</hi> of the Patriarch <hi>A<g ref="char:EOLhyphen"/>braham.</hi> A large Deſcription we have, of his <hi>Genealogy, Birth,</hi> and <hi>Life</hi> (from the cloſe of the 11th Chapter to the be<g ref="char:EOLhyphen"/>ginning of this 25th Chapter): But as to his <hi>Age, Death,</hi> and <hi>Burial,</hi> the Hiſtory of them is contracted within the ſhort Bounds of <hi>three</hi> Verſes here; (the 7th, 8th and 9th Verſes.)</p>
+            <p>'Tis the <hi>Death</hi> only of <hi>Abraham</hi> that I ſhall diſcourſe of. Concerning which, here's as much ſaid in <hi>a little</hi> as could well be expected, or deſired, upon ſuch an Ar<g ref="char:EOLhyphen"/>gument.</p>
+            <p>The Occaſion of our preſent aſſembling is, That we may pay our laſt Reſpects to the Reverend and Wor<g ref="char:EOLhyphen"/>thy Mr. <hi>Thomas Caſe,</hi> Miniſter of the Goſpel, (lately deceaſed) With whom the Text does ſo well ſuit, as that, <hi>mutato Nomine,</hi> we may read it thus; <hi>Then</hi> CASE
+<pb n="2" facs="tcp:94322:4"/>
+               <hi>gave up the Ghost, and died in a good old Age, an old Man, and full of Years, and was gathered to his People.</hi>
+            </p>
+            <p>In the managing of the Work in hand, I will firſt ſpeak to the <hi>Inſtance</hi> here mentioned, and to the <hi>Matter</hi> aſſerted of him; and then bring that down to our <hi>precious Friend,</hi> (upon whoſe account we are come together this Day).</p>
+            <p>As to the firſt, obſerve;
+<list>
+                  <item>1. The <hi>Perſon ſpoken of,</hi> [ABRAHAM.]</item>
+                  <item>2. <hi>What is ſpoken of him</hi> here; [he <hi>Died.</hi>]</item>
+                  <item>3. The <hi>Amplifications</hi> about his Death.
+<list>
+                        <item>1. <hi>From the Manner of it; [He gave up the Ghost.]</hi>
+                        </item>
+                        <item>2. <hi>From the Time of it; [In a good old Age, an Old Man, and full of Years.]</hi>
+                        </item>
+                        <item>3. <hi>From the Conſequent of it; [And was gathered to his People.]</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>'Tis the <hi>Third Head</hi> that I deſign to ſtay upon; the <hi>Two Firſt</hi> I'll put together, and briefly diſmiſs.</p>
+            <p>[<hi>Then</hi> ABRAHAM — <hi>Died.</hi>]</p>
+            <p>This <hi>Abraham</hi> was a <hi>great Man,</hi> a <hi>great Saint:</hi> who, in the whole Catalogue of Saints bears a greater Name than He? He was <hi>a Prophet, Gen.</hi> 20.7. the <hi>Friend of God,</hi> Jam. 2.23. <hi>The Father of the Faithful,</hi> Rom. 4.16. One who was, and for ever will be, renown'd for thoſe two unparallell'd Acts of <hi>Obedience and Love</hi> to God; (his forſaking of his own Country, and his readineſs to offer up his dear and only Son.) Well! what became of this eminent Perſon? Surely, his ex<g ref="char:EOLhyphen"/>traordinary
+<pb n="3" facs="tcp:94322:4"/>Grace and Holineſs, that high Rank of Faith and Obedience wherein he ſtood, exempted him from that <hi>Death</hi> which we poor Striplings are expo<g ref="char:EOLhyphen"/>ſed unto! No, 'twas not ſo, he <hi>Died,</hi> went the way of <hi>all Fleſh,</hi> under-went the Stroke of Death juſt as we do.</p>
+            <p>
+               <hi>Saints themſelves, the higheſt and choiceſt of them;</hi>
+               <note place="margin">Obſerv.</note> 
+               <hi>the Servants of God, they who are most eminently uſeful and faithful; even They are ſubject to Dying as well as others.</hi>
+            </p>
+            <p>'Twould be tedious, and unneceſſary (in ſo plain a Caſe) to heap up parallel Inſtances: That great Ser<g ref="char:EOLhyphen"/>vant of God, <hi>Moſes,</hi> he <hi>died;</hi> that great Prophet <hi>Sa<g ref="char:EOLhyphen"/>muel,</hi>
+               <note place="margin">Deut. 34.5. 1 Sam. 25.1. Zech. 1.5.</note> he <hi>died;</hi> all the <hi>Prophets</hi> of the Old Teſtament, all the <hi>Apoſtles</hi> of the New, all <hi>died;</hi> (as we have it in Scripture-Record).</p>
+            <p>All the Exemption from Death that the <hi>Beſt</hi> can claim or hope for, is, to be exempted from <hi>Eternal,</hi> but not from <hi>Natural Death.</hi> Grace does free Believers from the <hi>former;</hi> (<hi>Whoſoever liveth, and believeth in me, ſhall never die;</hi> Joh. 11.26. — <hi>Verily, verily, I ſay unto you, If a Man keep my Sayings, he ſhall never ſee Death.</hi> Joh. 8.51. — <hi>Bleſſed and holy is he that hath part in the firſt Reſurrection; on ſuch the Second Death hath no Power</hi>—. Rev. 20.6.) but it does not free from the <hi>latter.</hi> It may indeed, and does, as to <hi>this Death,</hi> ex<g ref="char:EOLhyphen"/>empt from the <hi>Curſe</hi> and <hi>Sting</hi> of it; (<hi>O Death,</hi>
+               <note place="margin">1 Cor. 15.55.</note> 
+               <hi>where is thy Sting?</hi>) but not from the <hi>Stroke</hi> of it; not from the <hi>thing it ſelf</hi> Naturally conſidered, (as it conſiſts in the <hi>diſſolving of the <g ref="char:V">Ʋ</g>nion 'twixt Soul and Body</hi>). Chriſt has <hi>unſtung</hi> Death for every Believer; the Ser<g ref="char:EOLhyphen"/>pent now may <hi>hiſſe,</hi> but it cannot <hi>hurt;</hi> yet it may ſting ſo far, as to put a Period to the preſent Life.</p>
+            <p>
+               <pb n="4" facs="tcp:94322:5"/>
+Doe <hi>Abrahams</hi> die? muſt they die? Oh happy Ne<g ref="char:EOLhyphen"/>ceſſity! bleſſed be God for it! This is grounded, not only upon their <hi>Natural Frame</hi> and <hi>Conſtitution;</hi> (as they are Fleſh and Blood as well as others, and made of the ſame brittle Materials): Nor only upon their <hi>having Sin</hi> as well as others; (and where that is, Death muſt follow upon it): Nor only, upon that <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Statute, [It is appointed unto Men once to die];</hi> Heb. 9.27. — But alſo, upon the <hi>ſpecial Love</hi> and <hi>Grace</hi> of God to his People. He has prepared an Heaven for them, they are deſigned to a future State of Bleſſed<g ref="char:EOLhyphen"/>neſs, ſhall be rewarded above for their Service below. Now, that they may be put into the actual Poſſeſſion of all this, they muſt die. Death, to the Saints, is but their <hi>Tranſition</hi> into their everlaſting Bleſſedneſs; and ſo, 'tis not their <hi>Miſery,</hi> but their <hi>Felicity,</hi> that they die. This, to the Wicked, is in <hi>Judgment;</hi> but to the Godly, in <hi>Mercy:</hi> The former die, becauſe God will glorify his <hi>Punitive Juſtice</hi> upon them in another World; but the Other die, becauſe God will glorify his free <hi>Grace</hi> and <hi>Mercy</hi> upon them in another World. Death ſhall come to an <hi>Abraham,</hi> but it comes to him as a <hi>Friend,</hi> not as an <hi>Enemy.</hi> Whilſt he is paying the indiſpenſible Tribute due to <hi>Nature,</hi> God is car<g ref="char:EOLhyphen"/>rying on the glorious Deſigns of his <hi>Grace</hi> towards him. (But this I paſs over).</p>
+            <p>I proceed to the <hi>threefold Amplification,</hi> or to the <hi>three Specialties</hi> obſervable in the <hi>Death</hi> of <hi>Abraham.</hi> The firſt of which, points to the <hi>Order,</hi> and to the <hi>Manner</hi> of his Death; in this Branch.</p>
+            <p>
+               <hi>Then</hi> Abraham <hi>[gave up the Ghoſt, and died.]</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:94322:5"/>
+In the <hi>Syriac</hi> Verſion, 'tis, <hi>infirmatus eſt,</hi> he was <hi>de<g ref="char:EOLhyphen"/>bilitated</hi> and <hi>weakened,</hi> ſo he <hi>died.</hi> In the <hi>Septuagint;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he <hi>fainted,</hi> and ſo he <hi>died:</hi> (thus alſo the <hi>Chaldee Paraphraſt,</hi> the <hi>Vulgar, Oleaſter,</hi> and di<g ref="char:EOLhyphen"/>vers others)<note n="*" place="margin">Malè in 70 <hi>Interpretibus</hi> additum eſt, [<hi>&amp; deficiens</hi> Abraham <hi>mor<g ref="char:EOLhyphen"/>tuus eſt</hi>]; quia non convenit Abrahae defi<g ref="char:EOLhyphen"/>cere &amp; immi<g ref="char:EOLhyphen"/>nui <hi>Q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſt. Heb.</hi> in <hi>Gen.</hi>
+               </note> 
+               <hi>Hierome</hi> objects againſt this <hi>Rendring</hi> the Words, as if it did reflect upon ſuch a Perſon as <hi>Abraham</hi> to <hi>faint:</hi> But what Diſparagement could it be to him, at ſuch an Age, to lie under bodily Fainting? ſo long as he was not <hi>weak in Faith,</hi> — but <hi>ſtrong in Faith, giving Glory to God,</hi> (Rom. 4.19, 20.) meer <hi>Natural Weakneſs</hi> could not at all reflect upon him, or be unbecoming to him.</p>
+            <p>The <hi>Samaritan</hi> Verſion renders it by <hi>Expiravit;</hi> he <hi>expired,</hi> breathed out his laſt <hi>Breath,</hi> or his <hi>Soul</hi> and <hi>Spirit;</hi> his Breath and Soul went out of him, ſo he died. (This Reddition is moſt generally followed by <hi>Expo<g ref="char:EOLhyphen"/>ſitors</hi>).</p>
+            <p>The <hi>[giving up of the Ghost],</hi> is the uſual Expreſſi<g ref="char:EOLhyphen"/>on to ſet forth Death by; ſo its uſed as to <hi>Iſaac, Gen.</hi> 35.29. — as to <hi>Jacob, Gen.</hi> 49.33. as to our <hi>Saviour,</hi> Joh. 19.30. <hi>(&amp; paſſim).</hi>
+            </p>
+            <p>We'll conſider it, as 'tis expreſſive not only of <hi>Abra<g ref="char:EOLhyphen"/>ham</hi>'s ſimple <hi>Dying,</hi> but alſo of ſome <hi>Adjuncts</hi> and <hi>Circumſtances</hi> about his dying: It notes,</p>
+            <p n="1">1. <hi>The Order of his Dying; and what was the Ante<g ref="char:EOLhyphen"/>cedent to it. Abraham</hi> firſt <hi>gave up the Ghost,</hi> then he <hi>died.</hi> Firſt the Soul departs, and then we die; and when that is once gone out of the Body, Death imme<g ref="char:EOLhyphen"/>diately follows. That being the <hi>living, vital, quick<g ref="char:EOLhyphen"/>ning Principle</hi> in Man; when that is once ſeparated from the Body, this muſt neceſſarily be turned into a <hi>dead Carcaſe,</hi> a dead lump of Clay. So long as that ſtays with us, we <hi>live;</hi> but when it takes its Flight
+<pb n="6" facs="tcp:94322:6"/>from us into its higher Manſion, forthwith we <hi>die.</hi> The diſſolving of the Union 'twixt Soul and Body, as it neceſſarily <hi>antecedes</hi> Death; ſo Death neceſſarily <hi>ſucceeds</hi> upon it. This is the <hi>Order</hi> of Nature, (as to what goes <hi>before</hi> and what follows <hi>after</hi>), in that which I am ſpeaking of.</p>
+            <p>By the way, let ſuch who believe, (and who there<g ref="char:EOLhyphen"/>upon are <hi>united</hi> unto Chriſt), rejoyce in this <hi>ſpiritual</hi> and <hi>myſtical <g ref="char:V">Ʋ</g>nion:</hi> inaſmuch, as it does ſecure to them the <hi>Perpetuity</hi> of their <hi>Spiritual Life.</hi> The <hi>Na<g ref="char:EOLhyphen"/>tural <g ref="char:V">Ʋ</g>nion</hi> of the two Conſtitutive Parts of Man, is <hi>diſſoluble;</hi> and ſo, the Natural Life that reſults from it, may <hi>ceaſe:</hi> But the <hi>Spiritual <g ref="char:V">Ʋ</g>nion</hi> between Chriſt and the Believer, being <hi>indiſſoluble,</hi> conſequently, the Spiritual Life reſulting from it, is and ſhall be <hi>Abiding</hi> and <hi>Everlaſting.</hi> The Soul may leave the Body, there<g ref="char:EOLhyphen"/>fore <hi>that</hi> may die; but Chriſt and the <hi>Animating Spi<g ref="char:EOLhyphen"/>rit</hi> will never leave the Soul, therefore <hi>that</hi> ſhall ne<g ref="char:EOLhyphen"/>ver die. How may Believers comfort themſelves from this!</p>
+            <p n="2">2. It holds forth, the <hi>Manner</hi> of <hi>Abraham</hi>'s Death.</p>
+            <list>
+               <item>1. <hi>As to the Speedineſs and Eaſineſs of it.</hi>
+               </item>
+               <item>2. <hi>As to his ready and willing Submiſſion to it.</hi>
+               </item>
+            </list>
+            <p n="1">1. <hi>His Death was quick and eaſy.</hi> He was not <hi>long</hi> in Dying, did not ſtand out any <hi>long Siege,</hi> Death did but ſummon him, and he preſently ſurrendred up him<g ref="char:EOLhyphen"/>ſelf; he breathed out his laſt Breath, and the Work was done. Neither did he grapple with thoſe <hi>ſharp Pains,</hi> thoſe grievous <hi>Agonies</hi> and <hi>Conflicts,</hi> which many feel in a dying-hour; no, he juſt <hi>expired,</hi> juſt <hi>gave up the Ghoſt,</hi> and that was all. The <hi>Hebrew</hi> Word,
+<pb n="7" facs="tcp:94322:6"/>uſed in the <hi>Text,</hi> is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; which the<note n="*" place="margin">Dictio, <hi>ex<g ref="char:EOLhyphen"/>piravit,</hi> egreſ<g ref="char:EOLhyphen"/>ſionem Spiri<g ref="char:EOLhyphen"/>tus è Corpote ſignificat, quae ſit ſubitò ſine Dolore &amp; Morâ <hi>Aben-Ezra.</hi> Putant Rabbini <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, eſſe mortem, quae Homini accidit abſque ullo praevio morbo &amp; dolote <hi>Munſter:</hi> Expirando mortuus eſt, mor<g ref="char:EOLhyphen"/>tis quadam facilitate uſus, quam <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Vatab.</hi> Verbum <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, apud Hebiaeos dicitur de Morte ſine Dolore, <hi>Grot.</hi> (ſo <hi>Oleaſter,</hi> &amp; quamplurimi alii.) <hi>Calvine</hi> rejects this Expoſition.</note> 
+               <hi>Rabbinical Doctors,</hi> (and many Interpreters after them), make to import a <hi>quick, ſpeedy,</hi> and <hi>eaſy Death.</hi>
+            </p>
+            <p>But others obſerve,<note place="margin">Vid, <hi>Fagium</hi> in Loc.</note> that we can lay no great Streſs upon the <hi>Word,</hi> (as importing, and <hi>eaſy Death</hi> to be<g ref="char:EOLhyphen"/>long to good Men; at leaſt, not ſo as to be <hi>appropri<g ref="char:EOLhyphen"/>ated</hi> and limited to them): becauſe, elſe-where, we find it applied to wicked Men in their Dying. As it is, to thoſe that periſhed in the <hi>General Deluge,</hi> Gen. 7.21. to <hi>Iſhmael</hi> himſelf, (in this <hi>Gen.</hi> 25.17.)</p>
+            <p>And for the <hi>Thing it ſelf, Abraham</hi> might have this <hi>eaſy Death;</hi> but we cannot from him <hi>conclude</hi> that <hi>all</hi> Saints, and they <hi>only,</hi> ſhall have it. This is wholly at God's diſpoſe, who orders every Man's Death to be eaſy or painful as he pleaſes. Even the Godly ſome<g ref="char:EOLhyphen"/>times have a <hi>rough Paſſage</hi> to <hi>Heaven,</hi> while the wicked have a <hi>calm Paſſage</hi> to <hi>Hell.</hi> Do we not ſee this veri<g ref="char:EOLhyphen"/>fied in daily Experience? the Good, dying with <hi>ſad Groans,</hi> ſharp <hi>Conflicts,</hi> acute <hi>Pains;</hi> and the Bad, dy<g ref="char:EOLhyphen"/>ing like <hi>Lambs,</hi> having a very <hi>ſerene</hi> and <hi>placid Death?</hi> As to this, <hi>all things fall alike to all;</hi> and there<hi>'s no Knowledg of the Love or Hatred of God,</hi> by it.</p>
+            <p>All that I can ſay upon it is this;</p>
+            <p>
+               <hi>An eaſy Death is a great Mercy.</hi>
+               <note place="margin">Obſerv.</note>
+            </p>
+            <p>There can hardly be a <hi>parting</hi> of the two <hi>old Compa<g ref="char:EOLhyphen"/>nions,</hi> ſuch a Violence offered to Nature, but there will be ſome <hi>Pains</hi> and <hi>Difficulties</hi> attending this; but the leſs there is of Theſe, the more there is of Mercy. This <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Suiton, in V. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng.</note> was paſſionately deſired by
+<pb n="8" facs="tcp:94322:7"/>the Emperor <hi>Auguſtus</hi> for Himſelf and all his <hi>Friends.</hi> And indeed, it is a Bleſſing much to be deſired! provi<g ref="char:EOLhyphen"/>ded, that this be done with <hi>due Submiſſion</hi> to the Will of God. We muſt not be our own Chuſers, as to the Circumſtances either of <hi>Life</hi> or <hi>Death;</hi> but in <hi>both</hi> en<g ref="char:EOLhyphen"/>tirely refer our ſelves to the Sovereign Pleaſure of God. And Chriſtian, comfort thy ſelf in this, what<g ref="char:EOLhyphen"/>ever thy <hi>Pains</hi> may be in <hi>Dying,</hi> thou art ſecured from thoſe <hi>worſer After-Pains</hi> that will ſucceed theſe to the ungodly and unbelieving. That Death which is ſo painful to thee, for a few Minutes, Hours, or Days, when it has done its Work, will put an end to all thy Pains, and to whatever here is afflictive to thee.</p>
+            <p n="2">2. It imports, <hi>Abraham's readineſs and willingneſs to die.</hi> He <hi>[gave up the Ghoſt],</hi> when God called for his Soul, he <hi>freely</hi> gave it up; there was in him no ſtriving, ſtrugling, or reluctancy; nothing but a <hi>qui<g ref="char:EOLhyphen"/>et</hi> and <hi>willing Reſignation</hi> of himſelf to die. 'Twould have been ſtrange had it been otherwiſe! He that was willing, at God's Command,<note n="*" place="margin">Gen. 12.1.</note> 
+               <hi>To go out of his own Country; from his Kindred and Father's Houſe, to a Land that God would ſhew him;</hi>
+               <note n="†" place="margin">Heb. 11.8.</note> 
+               <hi>though he knew not whither he went;</hi>
+               <note n="‖" place="margin">Acts 7.5.</note> 
+               <hi>had no Inheritance in the Place, no not ſo much as to ſet his Foot upon:</hi> I ſay, it would have been ſtrange, that he, who ſo readily complied with this Command of God, (when as to his <hi>Earthly Intereſt</hi> things were no better Circumſtantiated); ſhould have been backward to have complied, with God's Will as to his removal from Earth, when he knew, upon this, <hi>he ſhould be taken up into Heaven.</hi> This was in his Eye in his removal from his Country here; <hi>[for he looked for a City which hath Foundations,
+<pb n="9" facs="tcp:94322:7"/>whoſe Builder and Maker is God];</hi> Heb. 11.10. — But ſurely, he might have, and had, a more <hi>immediate</hi> and <hi>proximate</hi> view of the <hi>Heavenly Inheritance,</hi> in his De<g ref="char:EOLhyphen"/>parture by Death, which would put him into the <hi>pre<g ref="char:EOLhyphen"/>ſent Poſſeſſion</hi> of it. No wonder therefore he ſhould be thus <hi>willing to die!</hi>
+            </p>
+            <p>A good Pattern for our Imitation!</p>
+            <p>
+               <hi>Saints ſhould be willing to die.</hi>
+               <note place="margin">Obſerv.</note>
+            </p>
+            <p>Thus it was with <hi>Abraham</hi> himſelf, and thus it ſhould be with his <hi>Seed</hi> alſo. We muſt with the <hi>greateſt Rea<g ref="char:EOLhyphen"/>dineſs</hi> give up the Ghoſt whenever God demands it. Not die, out of <hi>Force</hi> or <hi>Neceſſity,</hi> (becauſe we cannot help it), but out of <hi>Choice,</hi> and ready <hi>Reſignation</hi> of Life to God's Will. <hi>Sapientis eſt exire, non ejici;</hi>
+               <note place="margin">Sen. Ep. 30.</note> 
+               <hi>a wiſe Man, is not forced out of the World, but he ſpontaneouſly goes out of it.!</hi> The wicked, Oh how averſe are they from Dying! (and can we blame them for it)? Their Souls are <hi>pull'd out</hi> of their Bodies, whether they will or no; they do not <hi>give</hi> them up, but they are <hi>taken</hi> from them; <hi>Thou Fool, this night,</hi> &amp;c. <hi>Prov.</hi> 14.32. <hi>[The wicked in driven away in his Wickedneſs];</hi> (it's an Alluſion to things, that are hurried away by ſome tempeſtuous Winds, quite contrary to their own Na<g ref="char:EOLhyphen"/>tural Inclinations): <hi>[but the Righteous has hope in his Death];</hi> and upon this Hope he dies <hi>willingly.</hi>
+            </p>
+            <p>Certainly they who duely conſider the <hi>Miſeries</hi> of the <hi>preſent Life,</hi> the <hi>true Nature</hi> of Death, the <hi>Gain</hi> and Advantages of it to the Upright, the<note n="*" place="margin">Quam praepoſterum eſt, quam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> perverſum, ut cum Dei Volun atem fieri poſtulemus quando evocat nos &amp; accerſit de hoc Mundo Deus, non ſta<g ref="char:EOLhyphen"/>tim Voluntaris ejus imperio pa<g ref="char:EOLhyphen"/>reamus. <hi>Cyprian</hi> de Mortal. Serm. 6.</note> 
+               <hi>Soveraignty</hi> of God over Men, as to Life and Death; cannot but be <hi>ready</hi> and <hi>willing</hi> to die. Ripe Fruit, how ea<g ref="char:EOLhyphen"/>ſily does it fall into the hands of him that gathers it? Oh ſuch who are fit to die,
+<pb n="10" facs="tcp:94322:8"/>ripe for Heaven, how readly ſhould they fall into God's Hands when by Death he comes to gather them!</p>
+            <p>The Truth is, 'tis not enough for ſuch <hi>barely</hi> to be <hi>willing</hi> to die, but this they ſhould paſſionately, (yet not impatiently), <hi>deſire</hi> and pant after. <hi>Having a de<g ref="char:EOLhyphen"/>ſire to depart, and to be with Chriſt, which is far better;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note place="margin">Phil. 1.23.</note> 
+               <hi>In this we groan earneſtly, de<g ref="char:EOLhyphen"/>ſiring to be clothed upon with our Houſe which is from Heaven.</hi>
+               <note place="margin">2 Cor. 5.2, 4.</note> — <hi>For we that are in this Tabernacle do groan, being burdened.</hi>
+            </p>
+            <p>So much for the <hi>Firſt Amplification</hi> in the words, about <hi>Abraham</hi>'s Death. The <hi>Second,</hi> is taken from the <hi>Time</hi> of it:</p>
+            <p>
+               <hi>Then</hi> Abraham <hi>gave up the Ghoſt, and died [in a good old Age, an old Man, and full of Years.]</hi>
+            </p>
+            <p>
+               <hi>In a good old Age]</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>(Sym.);</hi> in an <hi>hoary Age;</hi> (like that of <hi>Samuel, I am old and gray-headed;</hi> 1 Sam. 12.2.)</p>
+            <p>This, God had promiſed before to <hi>Abraham; [Thou ſhalt go to thy Fathers in Peace, thou ſhalt be buried in a good old Age]</hi> Gen. 15.25; and here it was made good to him. The ſame is ſaid of <hi>David,</hi> 1 Chron. 29.28. of <hi>Gideon,</hi> Judg. 8.32.</p>
+            <p>It may here be queried,<note place="margin">Object.</note> How is <hi>Abraham</hi> ſaid to die <hi>in a good old Age?</hi> when, if we compare <hi>his Age</hi> with thoſe who lived before him, it comes much ſhort of theirs? What's an 175 Years to thoſe <hi>ſeveral hun<g ref="char:EOLhyphen"/>dreds</hi> of Years, that the <hi>Fathers</hi> before the Flood arri<g ref="char:EOLhyphen"/>ved at? (according to what is recorded of them, <hi>Gen.</hi> 5.) And in the Computation of the Lives of the <hi>Fa<g ref="char:EOLhyphen"/>thers</hi> after the Flood, (<hi>Gen.</hi> 11.) we find all of them,
+<pb n="11" facs="tcp:94322:8"/>(one excepted, <hi>viz. Nachor,</hi> who lived but 148 Years) to be older than <hi>Abraham</hi> was?</p>
+            <p>Some anſwer, He is ſaid to die in a <hi>good old Age,</hi>
+               <note place="margin">Anſw.</note> an <hi>old Man,</hi>
+               <note place="margin">Senex dici<g ref="char:EOLhyphen"/>tur, non ſpa<g ref="char:EOLhyphen"/>tio dierum &amp; Temporum, (cùm junior obierit omni<g ref="char:EOLhyphen"/>bus Avis ſuis); ſed quia ſenſu, Fide, Sancti<g ref="char:EOLhyphen"/>moniâ Vitae, profecerat in immenſum.</note> not as to the <hi>meaſure of his Life by Days or Years; but in regard of the great Progreſs he had made in Faith and Holineſs.</hi> A more ſatisfactory Anſwer is this; That <hi>Abraham</hi>'s Age, <hi>abſolutely</hi> conſidered, (eſpe<g ref="char:EOLhyphen"/>cially at that <hi>Time</hi> wherein he lived, when God ſhor<g ref="char:EOLhyphen"/>tened the Lives of Men very much), was a good old Age; although it was not ſo, if taken <hi>comparatively</hi> with thoſe that lived <hi>before him:</hi> And, in a <hi>comparative</hi> Notion too, it was ſo,<note place="margin">Auctor Cat. in Lipem</note> if we compare it with the Age of them who did <hi>ſucceed</hi> him: 'Tis true, <hi>Iſaac</hi> lived ſome-what longer than he; (for <hi>his days were an</hi> 180 <hi>Years,</hi> Gen. 35.28.); But as to the reſt of his <hi>Iſſue,</hi> and as to the Body of ſucceeding <hi>Mankind,</hi> few (if any) ever did attain to his Age. <hi>The Days of our Years are threeſcore Years and ten;</hi> Pſal. 90.10; (and not one of a thouſand now live to this); <hi>Abraham</hi> much exceeded this Proportion; and ſo it may be well affirmed of him that he died in a <hi>good old Age, an old Man, full of Years.</hi>
+            </p>
+            <p>From this Head, I'll raiſe <hi>three</hi> Obſervations.</p>
+            <p n="1">1. <hi>That to live to, and to die in, a good old Age,</hi>
+               <note place="margin">
+                  <hi>Obſerv.</hi> 1.</note> 
+               <hi>is a great Bleſſing.</hi>
+            </p>
+            <p>It may be ſaid to be <hi>[a good old Age]</hi> either,</p>
+            <p>Upon a
+<list>
+                  <item>
+                     <hi>Natural</hi> and <hi>Phyſical,</hi>
+                  </item>
+                  <item>or a <hi>Moral</hi> and <hi>Spiritual.</hi>
+                  </item>
+               </list>
+Account.</p>
+            <p>According to the firſt Conſideration, 'tis either a <hi>great</hi> and <hi>long</hi> Age, or a <hi>ſtrong</hi> and <hi>healthful</hi> Age; either <hi>ſera,</hi> or <hi>ſana Senectus.</hi>
+            </p>
+            <p n="1">
+               <pb n="12" facs="tcp:94322:9"/>
+1. <hi>A great and long Age:</hi> Namely, when a Man's Days and Years are many, when the Number of them riſes very high, when he has <hi>full meaſure</hi> of them, (meaſure <hi>preſs'd down</hi> and <hi>running over</hi>). Some divide <hi>Old Age</hi> into <hi>three Periods;</hi> (according to which, they diſtinguiſh it into <hi>Firſt, Second</hi> and <hi>Laſt</hi>): the Firſt, they make to commence from the 60th Year of Man; the Second, from his 70th; and the Laſt from his 80th; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>(V. Druſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an loc.)</hi> Now, when a Man's Life is prolong'd not only to the Firſt and Se<g ref="char:EOLhyphen"/>cond, but alſo to the Third of theſe Stages; ſurely his is a <hi>good old Age.</hi>
+            </p>
+            <p>Now this is a <hi>great Bleſſing:</hi> So the Scripture repre<g ref="char:EOLhyphen"/>ſents a <hi>long Life,</hi> and a <hi>late Death.</hi> God himſelf makes uſe of it as a <hi>Motive</hi> to Obedience; (the Apoſtle turns it into a <hi>Promiſe,</hi> Eph. 6.2.) <hi>Honour thy? Father,</hi> &amp;c. <hi>that thy days may be long upon the Land which the Lord thy God giveth thee;</hi> Exod. 20.12. Its Promiſed, —<hi>Thou ſhalt come to thy Grave in a full Age, like as a Shock of Corn cometh in in his Seaſon;</hi> Job 5.26. —<hi>The number of thy days, I will fulfil;</hi> Exod. 23.26. — You ſee this good old Age is promiſed as a Mercy: The oppoſite to it, is threatened as a Puniſhment: So in the Caſe of <hi>Eli,</hi> and his Poſterity, 1 <hi>Sam.</hi> 2.31. <hi>Behold, the days come, that I will cut off thine Arm, and the Arm of thy Father's Houſe, that there ſhall not be an old Man in thine Houſe.</hi> Pſal. 55.23. — <hi>Bloody and deceitful Men ſhall not live out half their days:</hi> Job 15.32, 33. <hi>It ſhall be accompliſh<g ref="char:EOLhyphen"/>ed before his time, and his Branch ſhall not be green. He ſhall ſhake off his unripe Grape as the Vine, and caſt off his Flower as the Olive. David</hi> therefore deprecates this, <hi>O my God, take me not away in the midſt of my days;</hi> Pſal. 102.24. — It's obſervable when God would ſet
+<pb n="13" facs="tcp:94322:9"/>forth the <hi>glorious State</hi> of the Church, in the latter days, he doth it by <hi>this Alluſion;</hi> Iſa. 65.20. <hi>There ſhall be no more thence an infant of days, nor an old Man that hath not filled his days: for the Child ſhall die an hun<g ref="char:EOLhyphen"/>dred Years old, but the Sinner being an hundred Years old, ſhall be accurſed.</hi>
+            </p>
+            <p>To prove it to be a Mercy, it appears to be ſo,
+<list>
+                  <item>1. In regard of <hi>Others.</hi>
+                  </item>
+                  <item>2. With reſpect <hi>to the Aged themſelves.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. <hi>In regard of Others:</hi> It's a great Mercy, to be ſer<g ref="char:EOLhyphen"/>viceable and inſtrumental in the promoting of the Good of Others; 'tis that which we are all born for, have all our Graces and Gifts for; that which all ſtand obliged unto by many Bonds; that which is the high<g ref="char:EOLhyphen"/>eſt Expreſſion of true Love and Charity; that which will much conduce to the ſecuring and heightning of our own Future Happineſs. This Life now being the only time for this Service, muſt it not be a great Mercy, if God will lengthen it out, and ſpare a Perſon to a good old Age? In this reſpect (and upon this ac<g ref="char:EOLhyphen"/>count) the Life of Chriſtians here, is preferable be<g ref="char:EOLhyphen"/>fore the glorified Life of the Saints in Heaven; inaſ<g ref="char:EOLhyphen"/>much, as here they may be ſerviceable to others; which there they cannot be. Oh the longer thy Life is con<g ref="char:EOLhyphen"/>tinued, the more Good thou mayſt do! the more thou mayſt bring in to God, the more thou mayſt in<g ref="char:EOLhyphen"/>ſtruct, exhort, comfort, (and the like); and is not this Mercy? He that goes not to bed till nine or ten at night, may certainly do more Work, than one who enters upon his Repoſe early in the Morning, or at Mid-day.</p>
+            <p>
+               <pb n="14" facs="tcp:94322:10"/>
+And beſides this; Old Age does both <hi>qualify</hi> Per<g ref="char:EOLhyphen"/>ſons for Service, and alſo make their Service moſt <hi>ſuc<g ref="char:EOLhyphen"/>ceſsful.</hi> 'Tis to be preſum'd, that the <hi>Aged</hi> have a grea<g ref="char:EOLhyphen"/>ter Stock of<note n="*" place="margin">Mens &amp; Ra<g ref="char:EOLhyphen"/>tio &amp; Conſi<g ref="char:EOLhyphen"/>lium in Seni<g ref="char:EOLhyphen"/>bus eſt— Te<g ref="char:EOLhyphen"/>meritas eſt ſlo<g ref="char:EOLhyphen"/>rentis Aetatis, Prudentia Se<g ref="char:EOLhyphen"/>nectutis. <hi>Tull. de Sen.</hi>
+               </note> 
+               <hi>Wiſdom, Experience,</hi> than the <hi>Younger;</hi> and ſo are more able to <hi>adviſe, convince, reprove,</hi> and eve<g ref="char:EOLhyphen"/>ry way to further the Good of others. And then, upon that <hi>Reverence</hi> and <hi>Veneration,</hi> which all (but profligate Perſons) have for theſe, what they ſay, and do, comes with great<note n="†" place="margin">Apex Se<g ref="char:EOLhyphen"/>nectutis, Au<g ref="char:EOLhyphen"/>thoritas. <hi>Tull.</hi> de Sen.</note> 
+               <hi>Authority.</hi> That <hi>Admonition, Counſel</hi> and <hi>Reproof,</hi> which is ſlighted as it comes from the <hi>Young,</hi> is received with awe when it comes from the <hi>Aged.</hi> An eminent<note n="‖" place="margin">Mr. <hi>Gatta<g ref="char:EOLhyphen"/>ker,</hi> Abraham's Deceaſe, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 282.</note> Divine, (treating of this Subject) cites this Speech of one. <hi>A few gray Hairs may be of more worth than many Locks; and a few gray Beards do more than many green Heads.</hi> Old Age, (where 'tis not decrepit and ſuperannuated), is not the <hi>unuſeful</hi> and <hi>unſerviceable</hi> part of Man's Life (as to others); but quite the contrary.</p>
+            <p n="2">2. <hi>With reſpect to the Aged themſelves.</hi> The longer they are continued here, the more time they have to ſet their <hi>Houſe in order;</hi> to prepare for their ever<g ref="char:EOLhyphen"/>laſting State;<note place="margin">Iſa. 38.1. Phil. 2.12. 1 Tim. 6.19.</note> to <hi>work out their Salvation;</hi> to lay a <hi>good Foundation for Eternal Life;</hi> to get clear Evidences for Heaven. The longer the Fruit hangs upon the Tree, the riper it grows; 'twould be ſad, if they who live long, ſhould not be <hi>full ripe</hi> for Glory when they die. Upon this <hi>twofold</hi> Conſideration, its a great <hi>Bleſſing</hi> to live to <hi>a good old Age.</hi>
+            </p>
+            <p n="2">2. Let's conſider it, as it ſpeaks <hi>a ſtrong and health<g ref="char:EOLhyphen"/>ful old Age. Abraham</hi> dyed in a<note n="*" place="margin">
+                  <hi>i. e.</hi> Proſpe<g ref="char:EOLhyphen"/>tâ valetudine, haouit faci<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em Senectam. <hi>P Martyr.</hi> Vid. <hi>Oleaſt. Piſcat.</hi> Semectute bona, <hi>i. e.</hi> quae aliena a <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dlis &amp; incommodis Senectutis. <hi>Vatabl.</hi>
+               </note> 
+               <hi>good old Age;</hi> though he was old, yet he was <hi>hail, vegete,</hi> and <hi>vigorous;</hi> not
+<pb n="15" facs="tcp:94322:10"/>bowed down with thoſe Infirmities that uſually attend old Age. Some are Old when Young, others Young when Old; their <hi>Senſes,</hi> Parts, are as <hi>vivid</hi> and freſh as ever. We have two famous <hi>Inſtances</hi> of this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in Holy Writ: That of <hi>Moſes,</hi> Deut. 34.7. <hi>And</hi> Moſes <hi>was an hundred and twenty Years old when he died: his Eye was not dim, nor his natural Force abated.</hi> And that of <hi>Caleb,</hi> Joſh. 14.10, 11. <hi>And now behold, the Lord hath kept me alive, and he ſaid, theſe fourty and five Years, even ſince the Lord ſpake this word unto</hi> Moſes <hi>while the Chil<g ref="char:EOLhyphen"/>dren of</hi> Iſrael <hi>wandered in the Wilderneſs: and now lo, I am this day fourſcore and five Years old. As yet I am as ſtrong this day, as I was in the day that</hi> Moſes <hi>ſent me: as my Strength was then, even ſo is my Strength now, for War, both to go out, and to come in.</hi> Profane<note n="†" place="margin">Val Max. <hi>l.</hi> 8. <hi>c.</hi> 13 <hi>Cie.</hi> de Sen. Diuſi<g ref="char:EOLhyphen"/>us <hi>ſays of him<g ref="char:EOLhyphen"/>ſelf,</hi> Col Se<g ref="char:EOLhyphen"/>nectus melior quam ipſa Ju<g ref="char:EOLhyphen"/>ventus.</note> Hiſto<g ref="char:EOLhyphen"/>ry abounds in variety of Examples of it; (but I'll make no Citation of them).</p>
+            <p>Now that this is a great Bleſſing, needs no Proof. To be <hi>full of Years,</hi> and yet free from the Diſeaſes, Pains, Weakneſſes, which are the common Retinue of old Age; it admits not of the leaſt Doubt but that this is an eminent Mercy. Some bring the fore-cited Promiſe, <hi>Job</hi> 5.26. unto this;<note place="margin">Mr. <hi>Caryl</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> 
+               <hi>Thou ſhalt come to thy Grave in a full Age,</hi> i. e. <hi>full of Strength and Health; thine old Age ſhall not be a troubleſome Age; thou ſhalt not be weak and crazy, diſtempered and ſick, a Burthen to thy Self and Friends; but ſhalt die in a luſty old Age:</hi> It's promiſed us as a Mercy (you ſee), and it muſt be own'd to be ſo.</p>
+            <p>This for the <hi>Natural</hi> and <hi>Phyſical</hi> Notion of a <hi>good old Age!</hi> But then,</p>
+            <p n="2">2. There is the <hi>Moral</hi> and <hi>Spiritual</hi> Notion of it. And ſo it may be ſaid to be good, either in reſpect
+<pb n="16" facs="tcp:94322:11"/>of <hi>Grace,</hi> or of <hi>Peace</hi> and <hi>Comfort:</hi> when 'tis a vertuous, religious pious <hi>old Age,</hi> or a peaceable and comfortable <hi>old Age</hi> (the Soul having the Peace of God and Divine Joy in it); this is, <hi>truly,</hi>
+               <note n="*" place="margin">Tenen dum eſt—praecipuam partem bonae ſenectutis in bonâ conſc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>entiâ, animo ſereno &amp; tranquillo conſiſtere. <g ref="char:V">Ʋ</g>nde ſoquitur, nonniſi in ver<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ju<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ia cultores competere quod Deus <hi>Abrahae</hi> promitit. <hi>Calv.</hi>
+               </note> 
+               <hi>eminently,</hi> a <hi>good old Age;</hi> and that which is peculiar to Good Men.</p>
+            <p>In both reſpects, <hi>Abraham</hi>'s old Age was good. Firſt, as it ſucceeded an <hi>holy</hi> and <hi>well-ſpent Life;</hi> and then, <hi>as it ſelf</hi> was filled up with<note n="‖" place="margin">Diſcedens in Cratia. <hi>Lyra.</hi>
+               </note> 
+               <hi>Grace</hi> and <hi>Holineſs;</hi> (for, according to the Promiſe, <hi>Pſal.</hi> 92.14. <hi>He brought forth Fruit in his old Age.</hi>) And Secondly,<note n="†" place="margin">Expirare &amp; mori in Se<g ref="char:EOLhyphen"/>nectute bonâ, eſt placide mo<g ref="char:EOLhyphen"/>ri, &amp; exceſſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lciſſimo hanc vitam finire. <hi>River.</hi>
+               </note> as in it, he enjoyed much inward <hi>Serenity</hi> of <hi>Mind,</hi> and Peace of Conſcience. This he had, this he died with; ſo he died <hi>in a good old Age.</hi>
+            </p>
+            <p>If we ſtate it thus, Does it not carry much Mercy in it? In a <hi>full Age,</hi> (when Death is making its near Approaches); for any then to be able to re<g ref="char:EOLhyphen"/>flect upon a good and gracious Life; to appeal to God (as <hi>Hezekiah</hi> did),<note place="margin">Iſa. 38.3.</note> 
+               <hi>Remember now, O Lord, I be<g ref="char:EOLhyphen"/>ſeech thee, how I have walked before thee in Truth, and with a perfect Heart, and have done that which is good in thy Sight.</hi>
+               <q>Lord, I have not lived a vain and wicked Life, thou knoweſt; I have not ſpent my beſt Age in Folly and Vanity, all my days I have endeavoured to live in thy Fear, it has been my great Deſign all along to glorify thee in my Converſation, to do Good to Men, to ſerve my Generation: And now I am old, yet ſtill I keep my Integrity, ſtill I love thee, and fear to ſin againſt thee; ſtill (to the utmoſt of my Strength) I am for Prayer, Meditation, hearing the Word, all Religious Exerciſes: Oh good and bleſſed old Age!</q>
+               <pb n="17" facs="tcp:94322:11"/>Is not the <hi>end of this Man, Peace?</hi>
+               <note place="margin">Conſcientia benè acta vi<g ref="char:EOLhyphen"/>ta, multorum<g ref="char:EOLhyphen"/>que bene fac<g ref="char:EOLhyphen"/>torum recor<g ref="char:EOLhyphen"/>datio, juc<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>diſſima eſt. <hi>Tull. de Sen.</hi>
+               </note> does he not leave the World, and go off the Stage <hi>full of Comfort</hi> (as well as <hi>full of Days</hi>)? Does he not now find the ſweet of his Sincerity, (paſt and preſent)? To die in <hi>ſuch an old Age,</hi> is Mercy indeed!</p>
+            <p>Long Life and old Age, <hi>ſimply</hi> and <hi>abſtractly</hi> conſi<g ref="char:EOLhyphen"/>dered, are not ſo great a Bleſſing as to make a Perſon bleſſed; <hi>For the Sinner of an hundred Years old ſhall be accurſed;</hi> Iſa. 65.20. Take them thus, they do but aggravate Men's <hi>Guilt</hi> here, and <hi>Condemnation</hi> here<g ref="char:EOLhyphen"/>after. Ah but when they are attended with ſerious Piety and Goodneſs, then there is a great Bleſſedneſs in them, and a greater Reſulting from them. As the Wiſe Man ſtates it, (as to the Honour of old Age); <hi>An hoary Head is a Crown of Glory, if it be found in the way of Righteouſneſs;</hi> Prov. 16.31. So we muſt ſtate it, (as to the thing in hand.) Long Life, Old Age is a Mercy, <hi>if it be found in the way of Righteouſneſs:</hi> if not, what ever it may be in it ſelf, as conſider'd Abſolutely, to the <hi>Per<g ref="char:EOLhyphen"/>ſon,</hi> Eventually, it will have more of Judgment than of Mercy in it.</p>
+            <div type="application">
+               <head>
+                  <g ref="char:V">Ʋ</g>SE.</head>
+               <p>Let me a little apply this Point.</p>
+               <p n="1">1. To the <hi>Aged.</hi> Have any here liv'd to this <hi>good old Age?</hi> You can number 70, 80, ſome (may be) more Years? you have had a <hi>long Leaſe</hi> of Life, and 'tis not yet expired? Pray, <hi>look upon this as a great Bleſſing, and own it to be ſo.</hi> Let it not be burdenſome to you, be not <hi>querulous</hi> and <hi>impatient</hi> under it; but thankful, bleſſing God that he has ſpared you ſo long. Old Age <hi>all deſire,</hi> (all would live long); and yet
+<pb n="18" facs="tcp:94322:12"/>the moſt <hi>when they have it,</hi>
+                  <note place="margin">[Senectu<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m] <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t adi<g ref="char:EOLhyphen"/>piſcantur, om<g ref="char:EOLhyphen"/>nes optant; candem accu<g ref="char:EOLhyphen"/>fant adepti. <hi>Cic.</hi> de Sen.</note> 
+                  <hi>ure diſcontented and diſturb'd at it:</hi> this is not ingenuous; let it not be ſo there<g ref="char:EOLhyphen"/>fore with you. You are apt to judg of it by the <hi>out<g ref="char:EOLhyphen"/>ward Inconveniences</hi> and <hi>Hardſhips</hi> that attend it; (and theſe render it afflictive to you): <q>Whereas you ſhould judg rather <hi>by this;</hi> Oh what a large ſpace of Time have I had, for the honouring of God, doing good to Men, and ſaving my own Soul! Oh when thouſands and thouſands about me have been cut off, in the firſt bloſſomings of their Age, or as ſoon as they were grown up to Maturity, (and ſo hurried into their Everlaſting Eſtate; I am yet ſpared to make further and better Preparation for Eternity!</q> I ſay, would you but judg by <hi>ſuch Conſiderations</hi> as theſe, they would prevent Impatience, and promote Thankfulneſs in you to God, for lengthening out your Lives ſo long.</p>
+               <p>It was the Saying of one, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; <hi>he whom God loves,</hi>
+                  <note place="margin">Men and. <hi>in</hi> Plutarch.</note> 
+                  <hi>dies when he is young:</hi> I cannot aſſent to this Aſſertion without ſome ſtating and qua<g ref="char:EOLhyphen"/>lifying of it. 'Tis true, when God is bringing <hi>great Evils</hi> upon a Family, or a Kingdom, then to be taken away <hi>young,</hi> (in order to being preſerved from ſuch Evils), does carry the Love and Mercy of God in it; (as we ſee in the Inſtance of <hi>Jeroboam</hi>'s Son, 1 <hi>Kings</hi> 14.12, 13. and of good <hi>Joſiah,</hi> 2 <hi>Kings</hi> 22.20.) But to make this Propoſition <hi>general</hi> and <hi>univerſal,</hi> that we have no ground for. He that promiſes long Life as a Mercy, muſt be look'd upon as loving the Perſons to whom he vouchſafes it.</p>
+               <p>That which makes <hi>old Age</hi> to be ſo generally bur<g ref="char:EOLhyphen"/>denſome, and which cauſes Inquietude of Mind in Per<g ref="char:EOLhyphen"/>ſons under it; is, <hi>the muny Afflictive Evils that accom<g ref="char:EOLhyphen"/>pany
+<pb n="19" facs="tcp:94322:12"/>it. Within,</hi> there's a ſad Decay in the ſeveral Fa<g ref="char:EOLhyphen"/>culties of the Soul; (the <hi>
+                     <g ref="char:V">Ʋ</g>nderſtanding</hi> darkened, the <hi>Reaſon</hi> clouded, the <hi>Memory</hi> blunted, the <hi>Affections</hi> dead and flat). <hi>Without,</hi> there are various Infirmities in the Body; the <hi>Eyes</hi> dim, the <hi>Ears</hi> deaf, the <hi>Feet</hi> lame, the <hi>Joynts</hi> benum'd, the <hi>Hands</hi> tremble, the <hi>Bones</hi> full of Aches, the <hi>whole Body</hi> a Maſs of Diſeaſes: what an Accumulation of Evils is here! Hence old Age is commonly called, <hi>Aetas mala,</hi> the <hi>evil Age:</hi> And <hi>Solomon</hi> ſpeaks of it, <hi>as ſuch;</hi> Eccleſ. 12.1. <hi>Remember now thy Cre<g ref="char:EOLhyphen"/>ator in the days of thy Youth, while the evil days come not, nor the Years draw nigh, when thou ſhalt ſay. I have no pleaſure in them.</hi> (He firſt in <hi>general</hi> calls it the <hi>evil Days,</hi> and then <hi>particularly,</hi> in the following Verſes, he moſt elegantly ſets it forth, in the Decay of the ſeveral Parts of the Body).</p>
+               <q>
+                  <p>O quam continuis, &amp; quantis plena Senectus, Longa malis!</p>
+                  <bibl>
+                     <hi>Juv.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <p>Multa ſenem circumveniunt incommoda.</p>
+                  <bibl>
+                     <hi>Hor.</hi>
+                  </bibl>
+               </q>
+               <p>Now, can any be patient under the Conflux of ſuch Evils? much more, can any be thankful to God, for extending their Lives to an Age which expoſes them to ſuch Diſcomforts?</p>
+               <p>
+                  <hi>Anſw.</hi> They may, and they ought to be ſo. You that feel all theſe, reflect upon what is paſt. How ma<g ref="char:EOLhyphen"/>ny Years did you live in Health and Strength? how long was it before it was thus bad with you? And ſhould not the weighing of <hi>paſt Mercy,</hi> quiet you un<g ref="char:EOLhyphen"/>der <hi>preſent Afflictions?</hi> When all the Day has been fair, can you not bear a ſhowre at the Evening? When your Way has been good in your whole Journy, can
+<pb n="20" facs="tcp:94322:13"/>you not ſubmit to a little ſpot of bad Way, when you are juſt at the end of your Journey? This calls for Patience and Thankfulneſs from you.</p>
+               <p>And beſides, you are to conſider the <hi>preſent Good,</hi> as well as the <hi>preſent Evils,</hi> that attend your old Age. Ye are not yet <hi>wholly</hi> unſerviceable; ſomething yet you can do, for the Good of others, and for the ſaving of your own Souls. All theſe Calamities do but ſet you nearer to Heaven; every Wave drives your nearer to the Shore; every Wind is but for the throwing down of the <hi>Earthly Tabernacle,</hi>
+                  <note place="margin">2 Cor. 5.1.</note> that you may aſcend to that <hi>Houſe, that Building of God which is eternal in the Hea<g ref="char:EOLhyphen"/>vens.</hi> So that, upon a <hi>ſpiritual account,</hi> you have no reaſon to be impatient, or to find fault with your old Age; but to carry it like that <note n="*" place="margin">Georgias Leontinus, <hi>in Val. Max. l.</hi> 8. <hi>c.</hi> 13.</note> Aged Perſon (that we read of), who being an 107 Years old, and being asked, <hi>Why he would be willing to live ſo long?</hi> anſwe<g ref="char:EOLhyphen"/>red, <hi>Quia nihil habeo propter quod Senectutem meam accu<g ref="char:EOLhyphen"/>ſem; I undergo nothing for which I have cauſe to blame my old Age.</hi> Do but you conſider the <hi>whole matter,</hi> and you'll have more reaſon to ſay the ſame.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Tull.</hi> de Sen.</note>The Orator objects <hi>Four Evils</hi> in old Age:</p>
+               <list>
+                  <item>1. <hi>It diſables for Buſineſs and Work.</hi>
+                  </item>
+                  <item>2. <hi>It renders the Body infirm and ſickly.</hi>
+                  </item>
+                  <item>3. <hi>It deprives of all Pleaſures.</hi>
+                  </item>
+                  <item>4. <hi>It brings near to Death.</hi>
+                  </item>
+               </list>
+               <p>The Vanity and Weakneſs of all theſe Imputations upon old Age, he particularly makes out with great clearneſs and ſtrength of Reaſon.</p>
+               <p>When Heathens have ſuch ſound Notions of this, ſhall we Chriſtians entertain falſe Notions of it? Oh
+<pb n="21" facs="tcp:94322:13"/>where God has bleſſed any of you with it, do not murmur at it, and give way to Diſcontent, but heartily bleſs him for it.</p>
+               <p n="2">2. Is it <hi>a good old Age,</hi> not only for the <hi>length</hi> of it, but alſo for the <hi>Strength</hi> and <hi>Healthfulneſs</hi> of it? where 'tis ſo, ſurely <hi>there muſt be great Thankfulneſs.</hi> To live <hi>ſo long,</hi> and yet to be <hi>ſtrong</hi> and <hi>vigorous?</hi> free from thoſe Infirmities of Age that have been inſtanced in? Nature yet keeps up its youthful Vigor? there's no<g ref="char:EOLhyphen"/>thing in the Senſes, Organs, Limbs, Faculties of the Mind, to ſhew that old Age is upon Perſons: nothing but only the hoary Head? Oh what Mercy is this! Whether we conſider, the <hi>Paucity</hi> of them that have it; or the <hi>Advantage</hi> reſulting from it for Service. This is very good, not only becauſe it's <hi>delightful</hi> and <hi>comfortable</hi> to him<g ref="char:punc">▪</g> who has it; but becauſe it renders him <hi>ſerviceable</hi> to God and Man! Alas! the <hi>old, de<g ref="char:EOLhyphen"/>crepit, decay'd</hi> Man, here lives, and that's all; his time of Service is over, (in a great meaſure); he's laid by like the Ship that's worn out, unfit to go to Sea any more. Ah! but he that is old, and yet hail and <hi>luſty,</hi> that retains his former <hi>Vivacity</hi> (of Body and Soul); he's as fit for Service as ever, as uſeful in his Station as ever; a wonderful Mercy! What would ſome zea<g ref="char:EOLhyphen"/>lous Chriſtians give for it! If you have it, I beſeech you prize it, improve it, and be very thankful for it.</p>
+               <p n="3">3. But thirdly, Is it <hi>a good old Age</hi> in the <hi>moral</hi> No<g ref="char:EOLhyphen"/>tion of it? <hi>Here is the higheſt Obligation to Praiſe and Thankfulneſs.</hi> Can you take a view of your ſelves in the former Stages of your Lives, that in all of them you have feared God and walk'd with him? that all along you have been good, and done Good? that Holineſs and Obedience have run through your whole Converſa<g ref="char:EOLhyphen"/>tion?
+<pb n="22" facs="tcp:94322:14"/>And that now, in the laſt Period of your Days, yet you hold on in the good ways of God? yet you are acting Grace? yet bringing <hi>forth Fruit unto Holineſs?</hi>
+                  <note place="margin">Rom. 6.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Rev. 3.2.</note> yet your Works are good? nay, your <hi>laſt</hi> Works are your <hi>beſt?</hi> better <hi>filled up</hi> than formerly? Oh, where 'tis thus with any of you, rejoyce, rejoyce! call upon <hi>your Souls</hi> and <hi>all within you,</hi> to bleſs God for his rich Grace diſplaid towards you! Here's <hi>good old Age</hi> indeed! (Oh that thee was more of it in the World)! Well, here's <hi>living</hi> to, and in a <hi>good old Age;</hi> 'twill not be long before it will be <hi>dying</hi> in this good old Age: And how ſafe, how ſweet will that Dying be unto you whenever it ſhall come! (ſo much to the <hi>Aged</hi>).</p>
+               <p n="2">2. Something I would ſay to the <hi>Young:</hi>
+                  <note place="margin">Pſal. 39.5. Job 21.24.</note> To you who are in your <hi>best State,</hi> in the prime of your Days; whoſe Bones are <hi>full of Marrow,</hi> and whoſe Candle <hi>burns very bright.</hi> Old Age has not as yet ſeiz'd upon you, but you are haſtening to it; the <hi>Shadows of the Evening</hi> are every Minute drawing nearer and nearer to you. <note place="margin">Jer. 6.4.</note> That which I would urge upon you, is, that you would ſo order your Courſe now, in the time of your Youth and Manhood, as that when old Age ſhall come, it may be to you a <hi>good old Age,</hi> both living and dying. Indeed, 'tis very uncertain whether you ſhall ever arrive at it, (as I ſhall ſhew by and by); but poſſibly it may pleaſe God to continue you here ſo long: Oh! let it be your great Care and Endea<g ref="char:EOLhyphen"/>vour to provide now, (if it ſhall be ſo), that it may prove an happy and bleſſed Age to you.</p>
+               <p>
+                  <hi>How is this to be effected?</hi>
+               </p>
+               <p>Why, <note place="margin">Eccleſ. 12.1.</note> 
+                  <hi>Remember your Creator in the days of your Youth;</hi> cloſe with God <hi>betimes,</hi> make an <hi>early Dedica<g ref="char:EOLhyphen"/>tion</hi> of your ſelves to God, let him have the <hi>Firſt-Fruits</hi>
+                  <pb n="23" facs="tcp:94322:14"/>of one Time; now engage in ſerious and uni<g ref="char:EOLhyphen"/>verſal Piety; fill up your greener Age with Grace and Holineſs: Thus do, and then 'twill be a <hi>good old Age</hi> in the winding up of all. The way to <hi>end well,</hi> is to <hi>begin well;</hi> and ſo to hold on in what is good. If the <hi>Youth</hi> and <hi>Manhood</hi> have been vain and ſinful, it cannot well be expected that the <hi>old Age</hi> will be holy, and com<g ref="char:EOLhyphen"/>fortable: (what God may do in the Soveraignty of his Grace, who converts when he pleaſes, I do not med<g ref="char:EOLhyphen"/>dle with; I only ſpeak of what may <hi>probably</hi> and <hi>ratio<g ref="char:EOLhyphen"/>nally</hi> be expected. The Fruits which do not ſet well in Spring ſeldom come to any good Maturity in Au<g ref="char:EOLhyphen"/>tumn, ſo 'tis here. Beſides the <hi>Diſingenuity</hi> of putting off Vertue and Goodneſs to your old Age; <note place="margin">Non tantùm minimum in imo, ſed peſſi<g ref="char:EOLhyphen"/>mum remanet, <hi>Sen.</hi>
+                  </note> (for what is that but: in effect to ſay, that your worſt is good enough for God? that Sin and the World ſhall have your <hi>Flower,</hi> and God have only your <hi>Bran?</hi> that they ſhall have the firſt Broachings of the Veſſel, and God only the Dregs and Lees)? I ſay, beſides the diſ<g ref="char:EOLhyphen"/>ingenuouſneſs of this towards God, 'tis a thing that will prove highly <hi>injurious</hi> and <hi>fatal</hi> to your ſelves<g ref="char:punc">▪</g> For, <hi>if you be not good at the finſh twill be hard for you to be ſo at the laſt.</hi> Oh! let God and Godlineſs have all your Time! make him the <hi>Alpha</hi> and the <hi>Omega</hi> of your Days; let the whole Web of Life be ſpun with even Thread; wallo in an <hi>uniform Courſo</hi> of Obedience; let it be <hi>good Youth, good Manhood, good old Age,</hi> all good, (This is a <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, of muſt not expati<g ref="char:EOLhyphen"/>ate upon it).</p>
+               <p>I go on to a <hi>Second</hi> Obſervation:</p>
+               <p>
+                  <hi>None live ſolong, but at luſt they die.</hi>
+               </p>
+               <p>
+                  <hi>Abraham</hi> here had lived 75 Years, (a great Age)! but then <hi>he died.</hi> The longeſt Day will have its Night:
+<pb n="24" facs="tcp:94322:15"/>There will be the ſetting of the Sun, as well as the ri<g ref="char:EOLhyphen"/>ſing of it; (tho ſometimes 'tis very late before it ſets). There's none continue ſo long upon the Stage, but they go off at laſt. The Glaſs that has but the ordi<g ref="char:EOLhyphen"/>nary Proportion of Sand in it, is ſoon run out; ſup<g ref="char:EOLhyphen"/>poſe there ſhould be another with a far greater Proportion, yet even that too, by continual running, at laſt would be empty: So ſome Mens Time is ſoon run out, there's a ſpeedy Period put to their Lives; Others hold out, and hold up a longer time; but yet they too fall and die at laſt. The <hi>Ante-Diluvian</hi> Fathers lived very long, yet they died; of every one of them (<hi>Enoch</hi> only excepted) it's ſaid, <hi>And he died;</hi> Gen. 5.5, <hi>&amp;c.</hi>
+               </p>
+               <p>Not to enlarge upon a Point ſo plain and indubita<g ref="char:EOLhyphen"/>ble, let me ſubjoyn but a word of Advice:</p>
+               <p n="1">1. <hi>To the Old.</hi>
+                  <note place="margin">
+                     <g ref="char:V">Ʋ</g>ſe.</note> How does it concern ſuch, <hi>always to be expecting and prepared for Death!</hi> This ſhould be done by the Young, but much more by the Aged; becauſe of their more <hi>uncertain State</hi> as to Life. Oh <hi>how near are old Age and Death to each other!</hi> there's but a ſmall diſtance betwixt the <hi>hoary Head</hi> and the <hi>ſlimy Grave;</hi> that which <hi>David</hi> ſaid of himſelf, <hi>[there is but a ſtep between me and Death,</hi>
+                  <note place="margin">1 Sam. 20.3.</note>] every old Man may apply to himſelf. The Young <hi>may die,</hi> the Old <hi>muſt die:</hi> Death lies in <hi>Ambuſh</hi> for the Young, but it <hi>openly</hi> ſhews it ſelf to the Ancient; <hi>Senibus in Ja<g ref="char:EOLhyphen"/>nuis, Adoleſcentibus in inſidiis;</hi> Bern. There's but a little Sand left in their Glaſs, but a little Oil to keep their Lamps burning; their Leaſe is now almoſt ex<g ref="char:EOLhyphen"/>pired; (and what follows but a Writ of Ejectment?) It's Folly in any to dream of long Life; but this would be prodigious Folly in you, to whom the Reſidue of Life is ſo ſmall: (And yet the Orator tells
+<pb n="25" facs="tcp:94322:15"/>us,<note place="margin">Nemo eſt tam ſenex qui ſe annum non putet poſſe vivere.</note> 
+                  <hi>There's none ſo old but he thinks he may live one Year longer</hi>). It being thus, how ſhould you live in a <hi>con<g ref="char:EOLhyphen"/>ſtant Expectation</hi> of Death? how ſhould you be always <hi>ready</hi> and <hi>prepared</hi> for it? What! after you have had ſo <hi>long a Space</hi> to prepare for your Change, yet to be unprepared? what, to be neither fit <hi>to live,</hi> nor fit <hi>to dy?</hi> not fit for work, (becauſe your Strength is gone,) nor fit for Wages, (becauſe not ripe for Heaven)? what a diſmal Caſe is this! Oh therefore be always rea<g ref="char:EOLhyphen"/>dy! that when you come to dy, you may have no<g ref="char:EOLhyphen"/>thing to do but <hi>just to dy,</hi> and to go to God.</p>
+               <p n="2">2. Does this Counſel concern the Aged only? no, <hi>it reaches to others alſo.</hi> For do not the Young die as well as the Old? <hi>Verily, every Man at his best State is altogether Vanity,</hi> Pſal. 39.5. <hi>One dieth in his full Strength, being wholly at eaſe and quiet,</hi> Job 21.23. There are in the Grave the Skulls and Bones of In<g ref="char:EOLhyphen"/>fants, Youths, ſtrong Men, as well as of the Aged. <hi>The old Aſse often carries the Skin of the young one to the Market,</hi> (according to the <hi>Jewiſh</hi> Proverb).<note n="*" place="margin">Quis eſt tam ſtultus, quam<g ref="char:EOLhyphen"/>vis ſit Adole<g ref="char:EOLhyphen"/>ſcens, cui ſit exploratum ſe ad veſperam eſſe victurum. <hi>Cic.</hi> de Sen.</note> Who can aſſure himſelf (be he never ſo young) that he ſhall live <hi>a Day?</hi> much leſs that he ſhall live to <hi>old Age?</hi> What is Life more in the Young than in the Old? 'tis but a <hi>Breath</hi> in both; and that, God can ſtop as ſoon in the one as in the other. <hi>Omnes eodem cogimur,</hi> we are all going the <hi>ſame Way,</hi> and muſt all tread in the ſame <hi>Common-Path.</hi> Death puts no Difference betwixt the Weak and the Strong. The new-built Houſe ſome<g ref="char:EOLhyphen"/>times falls, when the old one ſtands. Wherefore it lies upon <hi>you,</hi> that are young, to look and prepare for Death, as well as upon the Eldeſt. Oh that you would be wiſe <hi>to conſider your latter End!</hi>
+                  <note place="margin">
+                     <hi>Deut.</hi> 32.29. <hi>Pſal.</hi> 90.12.</note> that you would <hi>ſo number your Days as to apply your Hearts to Wiſ<g ref="char:EOLhyphen"/>dome!</hi>
+                  <pb n="26" facs="tcp:94322:16"/>Do not <hi>procraſtinate</hi> and delay what you have to do, (preſuming upon living long, and old Age; which is the higheſt Folly, and the moſt groundleſs Imagina<g ref="char:EOLhyphen"/>tion): But <hi>to day, whilest it is called to day,</hi> repent, believe, make ſure of Chriſt, get your Peace made with God, (and the like). And then let Death come as ſoon as it will, 'twill be an happy Death to you.</p>
+               <p>
+                  <hi>[And full.]</hi>
+               </p>
+               <p>
+                  <note place="margin">V. <hi>Ainſworth</hi> in loc.</note>In the Original there is no more. 'Tis an uſual <hi>El<g ref="char:EOLhyphen"/>lipſis</hi> in the Hebrew; <hi>Pſal.</hi> 73.10. <hi>Waters [of a ful] are wrung out to them;</hi> (i. e. <hi>of a full Cup</hi>). And ſo here.</p>
+               <p>
+                  <note place="margin">Satur, accu<g ref="char:EOLhyphen"/>mulatus om<g ref="char:EOLhyphen"/>nibus bonis &amp; divitiis. P. <hi>Mart.</hi>
+                  </note>Some fill it up, <hi>Abraham</hi> died <hi>full</hi> of <hi>Riches, Wealth, Honour,</hi> and all <hi>earthly Proſperity:</hi> (As it's ſaid of <hi>Da<g ref="char:EOLhyphen"/>vid, He died in a good old Age, full of Days, Riches and Honour;</hi> 1 Chron. 29.28.) Others thus; <hi>Full of Grace,</hi> of <hi>Faith,</hi> of <hi>good Work:</hi> (a much <hi>better Fulneſs</hi> than the former)! But the moſt fill it up, as here we do, <hi>full</hi> of <hi>Years,</hi> or <hi>Days,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Sept.</hi> (and ſo in divers other <hi>Verſions</hi>).</p>
+               <p>The ſame is affirm'd of <hi>Iſaac,</hi> Gen. 35.29. of <hi>David,</hi> 1 Chron. 23.1. — 29.28. of <hi>Jehojada,</hi> 2 Chron. 24.15. — of <hi>Job,</hi> chap. 42.17. — The Prophet uſes this Expreſſion, <hi>Ier.</hi> 6.11. — <hi>The Aged, with him that is full of Days.</hi>
+               </p>
+               <p>But this (according to <hi>Expoſitors</hi>) is ſaid of <hi>Abraham,</hi> not only as expreſſive of the <hi>many Days</hi> and <hi>Years</hi> that he had lived; (with reſpect to which, it falls in with what precedes, and is but a repeating of the ſame Matter; <hi>[he died in a good old Age, an old Man, and full of Years]:</hi> But it alſo intimates what was the <hi>Tem<g ref="char:EOLhyphen"/>per
+<pb n="27" facs="tcp:94322:16"/>of his Mind,</hi> the inward Frame and Working of his Soul, as to Life; (and ſo it carries diſtinct Matter in it). He was <hi>full of Years,</hi> i. e. he was<note n="*" place="margin">Saturatus diebus ſuis. <hi>V. Syr.</hi> Saturatus aeta<g ref="char:EOLhyphen"/>te. <hi>V. Arab.</hi> Ut non appe<g ref="char:EOLhyphen"/>teret vitae pro<g ref="char:EOLhyphen"/>rogationem: <hi>Calv. Oleaſt.</hi> Pertaeſum eſt eum vitae, mortem optavit: <hi>Zwingl.</hi> Noluiſſet ulterius dies ſuos pertrah: P. <hi>Mart.</hi> Hebraiſmus eſt, pro Saturata erat anima ejus; non cupiebat diutius vivere, n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ec dies ſuos innovari. <hi>Fagius.</hi>
+                  </note> 
+                  <hi>ſatiated</hi> with Life, <hi>ſatisfied</hi> with the Time he had lived; he had li<g ref="char:EOLhyphen"/>ved long, and now he deſired to live no longer; he had his <hi>Fill</hi> of the <hi>natural Life,</hi> (as one has of Meat and Drink, when he has been at a Feaſt); he was very willing to have a Period now put to it.</p>
+               <p>Hence note, that</p>
+               <p>
+                  <hi>A gracious Man,</hi> (<hi>a true Child of</hi> Abraham),<note place="margin">Obj.</note> 
+                  <hi>after he has been here his appointed Time, and done the Work allot<g ref="char:EOLhyphen"/>ted to him; has enough of Life, ſo as not to deſire to live any longer.</hi>
+               </p>
+               <p>
+                  <hi>Jacob,</hi> when he had ſeen <hi>Joſeph,</hi> thought he had li<g ref="char:EOLhyphen"/>ved long enough; <hi>Now let me die</hi> (ſays he), <hi>ſince I have ſeen thy Face, becauſe thou art yet alive,</hi> Gen. 46.30. <hi>Simeon,</hi> having had a Sight of Chriſt, was very willing to die; <hi>Lord now lettest thou thy Servant depart in Peace, for mine Eyes have ſeen thy Salvation.</hi> Thus it is, thus (to be ſure) it ought to be, with every true Chriſtian.</p>
+               <p>I put in, <hi>[when his appointed Time is come, and his Work done],</hi> for the better ſtating of the Point. Till <hi>theſe</hi> be accompliſhed, Life can never be <hi>too long;</hi> when theſe are accompliſh'd, Life can never be <hi>too ſhort.</hi> When a good Man is convinced, 'tis God's Will to tranſlate him into another World, and that his Work is done in this; <hi>Oh</hi> (ſays he) <hi>let me die, I have enough of Life!</hi>
+               </p>
+               <p>
+                  <pb n="28" facs="tcp:94322:17"/>
+Here's one great <hi>Difference</hi> betwixt the People of God and other Men. The wicked are always deſi<g ref="char:EOLhyphen"/>ring <hi>Continuation</hi> of Life; as knowing, whenever that ſhall end, all their <hi>Pleaſures of Sin</hi> are over, and ever<g ref="char:EOLhyphen"/>laſting Puniſhments ſhall ſucceed in their room. The worldly too, are upon the ſame lock; as knowing, here is their <hi>Portion,</hi> that they have their <hi>good things here.</hi>
+                  <note place="margin">Luke 16.25.</note> And therefore, as they have inſatiable Deſires after the having more of earthly Things, ſo alſo after the protracting of that Life, in which thoſe earthly things are to be enjoyed. If theſe might have their Will, they would never die, but live on <hi>in infinitum.</hi> They may indeed ſometimes be <hi>impatient</hi> of Life; but they never are, (upon good Grounds, and in a right manner), <hi>ſatiated</hi> with Life. Ah! but ſuch who are ſincere with God, this is their Frame and Temper: Does God ſay, <hi>you ſhall live no longer?</hi> they anſwer, <hi>Lord, we have enough of Life, let us die.</hi>
+               </p>
+               <p>Some <hi>Heathens</hi> have gone very far in this; <hi>I have lived</hi> (ſays<note n="*" place="margin">Vixi quan<g ref="char:EOLhyphen"/>tum ſatis erat, mortem plenus expecto. <hi>Sen.</hi>
+                  </note> one) <hi>as long as ſuffices, I am all for Death.</hi> And<note n="†" place="margin">Si quis De<g ref="char:EOLhyphen"/>us mihi largia<g ref="char:EOLhyphen"/>tur, ut ex hâc aetate repue<g ref="char:EOLhyphen"/>raſcam, &amp; in<g ref="char:EOLhyphen"/>cunis vagiam, valde recuſem; nec velim, qua<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> decurſo ſpa<g ref="char:EOLhyphen"/>tio, a calce ad carceres revo<g ref="char:EOLhyphen"/>cari. <hi>Cato in Tull.</hi> de Sen.</note> another, <hi>If ſome God would grant me to grow young again, I would by no means accept of it; I would be loth, having run my Race, to begin all again.</hi> If theſe (by the improvement of Reaſon and natural Light) went thus far; ſurely they, who have an higher Light, do not come ſhort of them: and what (I fear) in them was but <hi>Words,</hi> by the Saints is really put in <hi>Practice.</hi>
+               </p>
+               <p>And in theſe, the <hi>Grounds</hi> of their <hi>Satiety of Life,</hi> are to be conſidered. This does not reſult, meerly from the <hi>Troubles, Loſſes, Croſſes</hi> that here they meet with; but from ſomething of an higher Nature. They are convinc'd of the <hi>Vanity</hi> of things below, that there's an Emptineſs in what this World affords; that
+<pb n="29" facs="tcp:94322:17"/>there's nothing here juſtly to make them <hi>fond of Life:</hi> That ſo long as <hi>Life</hi> continues, <hi>Sin</hi> will continue: That there is an <hi>higher</hi> and <hi>better Life</hi> to ſucceed, (which cannot be enjoyed till this expire): That 'tis firſt <hi>Dying,</hi> and then <hi>being with God.</hi> Upon theſe Grounds, gracious Souls are even <hi>glutted</hi> with this Life, and care not how ſoon they are depriv'd of it.</p>
+               <p>Well,<note place="margin">
+                     <g ref="char:V">Ʋ</g>ſe.</note> let us ſhew our ſelves to be <hi>Abraham's Seed</hi> in this, in our being <hi>ſatiated with Life:</hi> He is an excellent Chriſtian who is ſo, but there are but few who are ſo.</p>
+               <q>
+                  <l>Rarus qui exacto contentus tempore vitae,</l>
+                  <l>Cedat uti conviva ſatur—.</l>
+                  <bibl>
+                     <hi>Hor.</hi>
+                  </bibl>
+               </q>
+               <p>Should God meaſure out but a ſhort Duration of Life to us, yet that ſhould <hi>ſatisfy</hi> us, as being long enough. But much more ſhould he grant a liberal Pro<g ref="char:EOLhyphen"/>portion of it, we have no reaſon to deſire more. True, in reſpect of <hi>Work</hi> and <hi>Service,</hi> we ſhould think Life never to be <hi>long enough:</hi>
+                  <note place="margin">Vixi ſatis Naturae, ſatis Gloriae, non ſatis Patriae.</note> He ſaid well who ſaid, <hi>I have lived enough to Nature, enough to my own Reputation, but not enough to my Country.</hi> He ſpeaks much better who ſays, <hi>I have lived enough to Nature, enough to my Self, but not enough to my God</hi>). But when we have <hi>good Grounds</hi> to conclude, our Work is finiſh'd, God has no more for us to do; it becomes us to ſay,<note place="margin">Non ace<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bum jam judicant vivere ſed ſu<g ref="char:EOLhyphen"/>perſluum. <hi>Sen.</hi> Ep. 24.</note> 
+                  <hi>We have our ſill of Life,</hi> we would not live a day, an hour, a moment longer: <hi>(Not becauſe its bitter to us to live, but becauſe 'tis unneceſſary for us to live).</hi> 'Twould be an Act of<note n="*" place="margin">Singularis eſt Dei Gratia, <hi>vitae ſaturi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>as,</hi> ut ex eâ migrare parati ſumus cum Animi Tranquilitate, <hi>&amp;c. Rivet</hi> in loc.</note> 
+                  <hi>ſingular Grace</hi> from God, if, by his Spirit, he would bring us to this bleſſed Temper!</p>
+               <p>
+                  <pb n="30" facs="tcp:94322:18"/>
+I have diſpatch'd the two <hi>firſt Amplifications</hi> about <hi>Abraham's Death,</hi> from the <hi>Manner,</hi> and the <hi>Time</hi> of it; let me add a little upon the <hi>Third,</hi> viz. the <hi>Iſſue</hi> and <hi>Conſequent</hi> of it. He died, what became of him after that? why,</p>
+               <p>
+                  <hi>He was gathered to his People.</hi>
+               </p>
+               <p>This, like the preceding Expreſſions, (of <hi>giving up of the Ghost,</hi> dying <hi>in a good old Age,</hi> being <hi>full of Years</hi>), does often occur in Scripture. 'Tis uſed of <hi>Iſaac,</hi> Gen. 35.29. of <hi>Jacob,</hi> Gen. 49.33. of <hi>Aaron,</hi> Numb. 20.24. (of many otheres). Sometimes 'tis ex<g ref="char:EOLhyphen"/>preſſed by being <hi>Gathered to their Fathers: I will gather thee to thy Fathers</hi> (ſays God to <hi>Joſiah</hi>) 2 <hi>Kings</hi> 22.20. And alſo, <hi>all that Generation were gathered unto their Fa<g ref="char:EOLhyphen"/>thers,</hi> Judg. 2.10. <hi>David</hi> was <hi>laid unto his Fathers,</hi> Acts 13.26. The Promiſe to <hi>Abraham</hi> was, <hi>Thou ſhalt go to thy Fathers</hi> — Gen. 15.15. — We read again and again, of <hi>ſleeping with their Fathers;</hi> 1 Kings 11.43. 1 Kings 2.10. <hi>(&amp; paſſim).</hi>
+               </p>
+               <p>It's an uſual <hi>Hebraiſm</hi> to ſet forth, entring into <hi>the State of the Dead.</hi> There's a kind of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in it; it being a more ſoft and pleaſing Deſcription of that State, inſtead of that which is more rough and harſh.</p>
+               <p>The <hi>Grave</hi> being the <hi>common Receptacle</hi> of all that die; (<hi>All go unto one place,</hi> Eccleſ. 3.20. <hi>I know that thou wilt bring me unto Death, and to the Houſe appointed for all living;</hi> Job 30.23): therefore, though <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> died and was buried in <hi>Canaan,</hi> where<note n="*" place="margin">Gen. 25.10.</note> 
+                  <hi>Sarah</hi> only was buried, and none of his Progenitors; yet, upon his Death and Burial, he's ſaid <hi>to be gathered to his People,</hi> (or <hi>Fathers</hi>).</p>
+               <p>
+                  <pb n="31" facs="tcp:94322:18"/>
+The <hi>Papiſts</hi> Gloſs upon it is, he went to the <hi>Limbus Patrum.</hi> Their Doctrine is, that the <hi>Fathers,</hi> and all the <hi>Old-Teſtament-Saints,</hi> (who lived and died be<g ref="char:EOLhyphen"/>fore the Incarnation, Paſſion, and Reſurrection of Chriſt), were not <hi>immediately</hi> taken up into Heaven, but ſhut up together in ſome ſecret <hi>Receſſes</hi> or <hi>Cavernes</hi> of the Earth, till Chriſt ſhould come, and ſuffer, and riſe again; and <hi>then</hi> they were to be admitted into the Heavenly Glory. And they tell us, that theſe <hi>Fathers</hi> and others, in <hi>this State,</hi> did not feel any <hi>Paena Senſus,</hi> (as they in <hi>Purgatory</hi> do); but only <hi>Paena Damni,</hi> in their not having the <hi>immediate Preſence of God and the Beatifick Viſion.</hi> And amongſt other Proofs that they give of this, my<note n="*" place="margin">
+                     <hi>Apponi ad Populum ſu<g ref="char:EOLhyphen"/>um,</hi> eſt conſo<g ref="char:EOLhyphen"/>ciari. Non in majorum Se<g ref="char:EOLhyphen"/>pulturâ juxta corpus, ſed perduci juxta Animam ad conſortium Animarum Pa<g ref="char:EOLhyphen"/>trum illius, quae erant in poenis tenebrarum uſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ad diſcen<g ref="char:EOLhyphen"/>ſum Filii Dei ad Inferos, <hi>&amp;c.</hi> &amp; poſt Salva<g ref="char:EOLhyphen"/>toris Domini Reſurrectionem transferendus ad Paradiſum faelicitatis aeternae. <hi>Lipem</hi> in loc. So <hi>Lyranus, P. Burgenſis,</hi> in Gen. 49.33. <hi>Bellarmin.</hi> de Animâ Chriſti, <hi>Cap.</hi> 11. <hi>Pet. Galat. Arcan.</hi> lib. 6. c. 7.</note> 
+                  <hi>Text,</hi> (with other parallel Texts), is inſiſted upon for one: <hi>Abraham was gathered to his People,</hi> i. e. he was not preſently tranſlated into Heaven, but for a time ſhut up in a <hi>common Cell</hi> (with the reſt who died before him), as only an <hi>Expectant</hi> of Heaven. And hence they obſerve, a <hi>Variation</hi> of Words, in the ſetting forth of the Death of thoſe who died <hi>ſince Chriſt came,</hi> and of thoſe who died <hi>before Chriſt came:</hi> The former are ſaid <hi>to die in the Lord,</hi> to <hi>ſleep in Jeſus,</hi> (and the like); but the latter, are ſaid to be <hi>gathered to their People,</hi> to <hi>ſleep with their Fathers;</hi> (and ſo on).</p>
+               <p>This Opinion we reject, as having no ſolid Foun<g ref="char:EOLhyphen"/>dation in the Word of Truth: And hold, that as all Believers who now die do <hi>immediately</hi> enter into Glory; (for <hi>the Spirit returns to God who gave it,</hi> Eccleſ. 12.7. <hi>To day ſhalt thou be with me in Paradiſe;</hi> Luke 23.43. <hi>We know, that if our earthly Houſe of this
+<pb n="32" facs="tcp:94322:19"/>Tabernacle were diſſolved, we have a Building of God, an Houſe not made with Hands, eternal in the Heavens;</hi> 2 Cor. 5.1.) So, that all who lived before Chriſt, and believed in him, did alſo, upon their Dying, <hi>immedi<g ref="char:EOLhyphen"/>ately enter into Glory.</hi>
+                  <note place="margin">
+                     <hi>See this</hi> Lim<g ref="char:EOLhyphen"/>bus Patrum <hi>refuted, and the Proteſtant Doctrine de<g ref="char:EOLhyphen"/>fended, in</hi> Ri<g ref="char:EOLhyphen"/>ver. in Gen. E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ercit. 151. <hi>Idem.</hi> ſumma controv. Qu. 42. <hi>Rainold.</hi> Cenſura libr. Apochryph. Prael. 79, <hi>&amp;c. Chamier.</hi> Pan<g ref="char:EOLhyphen"/>ſtrat. <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</hi> 3. <hi>l.</hi> 25. <hi>c.</hi> 5, &amp;c.</note> Chriſt being the <hi>ſame</hi> to <hi>Them,</hi> that he is to <hi>
+                     <g ref="char:V">Ʋ</g>s,</hi> Heb. 13.8; his <hi>Merit</hi> extending to Them as well as to Us, (he being <hi>the Lamb ſlain from the Foundation of the World;</hi> Rev. 13.8); and They <hi>believing</hi> in the <hi>Meſſiah to come,</hi> as well as we believe in him <hi>as come;</hi> what reaſon can be aſſigned, why they ſhould not partake of the <hi>ſame Bleſſings,</hi> the <hi>ſame Hap<g ref="char:EOLhyphen"/>pineſs,</hi> that we <hi>now</hi> partake of? and conſequently, upon Death, be put into the <hi>immediate Poſſeſſion</hi> of the Glory of Heaven, even aswe are?</p>
+               <p>But bleſſed <hi>Abraham!</hi> was it thus with thee? was this thy <hi>gathering to thy People</hi> to be ſhut up in ſome <hi>dark Caverns</hi> of the Earth, (God knows where)? and to be kept out of Heaven, (God knows how long)? In thy Life, at God's Command, thou wenteſt thou kneweſt not whither; and at thy Death too, didſt thou go thou kneweſt not whither? Waſt thou the <hi>great Inſtance</hi> of Faith,<note place="margin">Rom. 4.3.</note> the <hi>Father of the Faithful?</hi> and yet does it fare better, with the meaneſt of <hi>thy Seed</hi> now, than it did with thy Self? Was Heaven ſo much in thy Eye, didſt thou <hi>look for a City which had Founda<g ref="char:EOLhyphen"/>tions,</hi>
+                  <note place="margin">Heb 11.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0.</note> 
+                  <hi>whoſe Builder and Maker is God;</hi> and yet ſo long kept out of it, and thruſt into ſome Recluſe <hi>whöſe Builder and Maker is Man?</hi> Is thy<note n="*" place="margin">
+                     <hi>So</hi> Auſtin <hi>expounds it,</hi> Q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Evang. <hi>l.</hi> 2. <hi>c.</hi> 28. &amp; in Ep. ad <hi>Evodi<g ref="char:EOLhyphen"/>um.</hi> So <hi>Mul<g ref="char:EOLhyphen"/>donate</hi> in loc. (<hi>who yet to ſave himſelf, is fain to ſay,</hi> Non quod <hi>Abraham</hi> in Coelo eſſet; ſed quòd ita loqui ſingarur, quaſi eſſet in Coelo.</note> 
+                  <hi>Boſome</hi> made uſe of to repreſent <hi>Heaven;</hi> and that before Chriſt died; and yet waſt thou not as yet in Heaven? Bleſſed Saint! theſe things we poor dim-ſighted Proteſtants, know not how to underſtand!</p>
+               <p>
+                  <pb n="33" facs="tcp:94322:19"/>
+The Adverſay has led me out of my way, I return to the words; which I ſhall conſider not only as a <hi>Pe<g ref="char:EOLhyphen"/>riphraſis of Death,</hi> or of the <hi>dead State</hi> that follows up<g ref="char:EOLhyphen"/>on it; but as holding forth ſomething of a far higher nature: As namely, that <hi>Abraham's Soul,</hi> as ſoon as Death had ſeized upon his Body, was <hi>forthwith tranſla<g ref="char:EOLhyphen"/>ted into the Fellowſhip and Society of the glorified Saints, who lived and died before him.</hi>
+               </p>
+               <p>Two things <hi>Expoſitors</hi> infer from them.</p>
+               <list>
+                  <item>1. <hi>The Exiſtence of the Soul in its ſeparated State from the Body.</hi> They apply <hi>Abraham</hi>'s being <hi>gathered to his People,</hi> to his <hi>Soul;</hi> and from thence aſſert, the <hi>Exiſtence</hi> and <hi>Immortality</hi> of it. And whereas ſome affirm, that in all the Books of <hi>Moſes</hi> there's nothing ſaid, to prove the <hi>Soul's Immortality;</hi>
+                     <note n="*" place="margin">In Loc.</note> 
+                     <hi>Cajetan</hi> con<g ref="char:EOLhyphen"/>futes them from this very Text: And many<note n="†" place="margin">
+                        <hi>Vatab. Pe<g ref="char:EOLhyphen"/>rerius</hi> in Gen. 25 Tom. 4. Diſp. 8. <hi>pag.</hi> 789, &amp;c. <hi>Ainſ<g ref="char:EOLhyphen"/>worth. Theo<g ref="char:EOLhyphen"/>doret.</hi> Q. 109. in Gen.</note> others concur with him therein.</item>
+                  <item>2. <hi>The Advancement and Felicity of the Soul upon its Separation from the Body,</hi> which conſiſts in this, that it is preſently <hi>joyned with,</hi> and <hi>admitted into, the Society of the glorified Souls that are with God in Heaven.</hi>
+                  </item>
+               </list>
+               <p>I muſt not engage in the diſcuſſing of theſe Heads; in brief take this Obſervation.</p>
+               <p>
+                  <hi>That whenever the Godly die, immediately they are tranſlated unto the Society of the glorified Saints in Heaven.</hi>
+               </p>
+               <p>We cannot ground this, <hi>merely</hi> upon the Phraſe of <hi>Abraham's being gathered to his People;</hi> but we muſt alſo take in the <hi>Grace</hi> and <hi>Holineſs</hi> of the <hi>Subject.</hi> It's ſaid of <hi>Iſhmael</hi> here (<hi>ver.</hi> 17.) <hi>He was gathered to his Peo<g ref="char:EOLhyphen"/>ple;</hi> but how? not as <hi>Abraham</hi> was, becauſe he was a
+<pb n="34" facs="tcp:94322:20"/>bad Man. The Sence of the Words muſt be ſtated, according to the<note n="*" place="margin">Ad foelicita<g ref="char:EOLhyphen"/>tem per ſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tiner, ſed tantum pro <hi>Subjectorum</hi> ra io<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e intel<g ref="char:EOLhyphen"/>lecta. <hi>Rivet.</hi>
+                  </note> 
+                  <hi>Subject</hi> to whom they are applied: When the Wicked die they are <hi>gathered to their People,</hi> i. e. they are thrown into the Company of the Damn<g ref="char:EOLhyphen"/>ed in Hell: But when the Godly die, they are <hi>gathered to their People,</hi> i. e. taken up into the Company of the glorified Saints in Heaven.</p>
+               <p>It's foretold and promiſed, <hi>Mat.</hi> 8.11. <hi>That many ſhall come from the East and West, and ſhall ſit down with Abraham, and Iſaac, and Jacob in the Kingdom of Hea<g ref="char:EOLhyphen"/>ven.</hi> Hebr. 12.22, 23. <hi>But ye are come unto Mount Sion, and unto the City of the living God, the heavenly Je<g ref="char:EOLhyphen"/>ruſalem, and to an innumerable Company of Angels: to the General Aſſembly, and Church of the First-born, which are written in Heaven, and to God the Judge of all, and to the Spirits of just Men made perfect: And to Jeſus the Mediator of the New Covenant, and to the Blood of ſprink<g ref="char:EOLhyphen"/>ling, that ſpeaketh better Things than that of Abel.</hi> The firſt Intendment of the Apoſtle in this Scripture, was to deſcribe the <hi>Goſpel-Church</hi> as 'tis here on Earth, in the <hi>Glory</hi> and <hi>Priviledges</hi> thereof. One of which is this, that under the Goſpel, <hi>Saints on Earth have Communion with the Saints in Heaven;</hi> (all making up but one Bo<g ref="char:EOLhyphen"/>dy, or one Aſſembly): But yet ſo, as that the Things (here ſpoken) have their fulleſt Accompliſhment in the <hi>Church triumphant.</hi> When any are taken up into <hi>that Church,</hi> they go indeed to the <hi>City of the living God,</hi> the <hi>heavenly Jeruſalem, an innumerable Company of Angels, the Church of the Firſt-born, the Spirits of just Men made perfect.</hi> And this is the Portion of all that fear, love and obey God, whenever Death removes them hence. Luke 16.22. <hi>And it came to paſs that the Beggar died, and was carried by the Angels into</hi> Abraham's <hi>Boſom.</hi>
+               </p>
+               <p>
+                  <pb n="35" facs="tcp:94322:20"/>
+And is it thus?<note place="margin">
+                     <g ref="char:V">Ʋ</g>ſ. <hi>1.</hi>
+                  </note> then (1.) <hi>What an incentive is this to Godlineſs! Abraham</hi> died <hi>in a good old Age,</hi> (an old Age which ſucceeded a pious and well-ſpent Life); what followed upon it? he <hi>was gathered to his People;</hi> ad<g ref="char:EOLhyphen"/>mitted into the Society of the Bleſſed in Heaven. Now as we deſire to partake of his <hi>happy End,</hi> we muſt con<g ref="char:EOLhyphen"/>form to his <hi>holy Courſe.</hi> Let us ſhew our ſelves to be <hi>his Children</hi> by the <hi>doing of his Works;</hi>
+                  <note place="margin">Joh. 8.39.</note> Let us <hi>believe, obey, live</hi> as he did, and then we ſhall be <hi>Heirs with him</hi> of this, and all that other Bleſſedneſs, which he now poſſeſſes. To be with all the glorified Saints in Heaven? (much more to be with the bleſſed God there)? what Tongue can expreſs, what Heart can conceive, how great a Thing this is! But how is this to be attai<g ref="char:EOLhyphen"/>ned? only by being good, and doing good.<note place="margin">Heb. 12.14.</note> 
+                  <hi>Without Holineſs no Man ſhall ſee God,</hi> nor any who are <hi>with God.</hi> Oh let the <hi>Age</hi> be what it will, (<hi>old</hi> or <hi>young</hi>), ſee that it be good and gracious; and then this happy <hi>Gathering</hi> will follow upon it: but otherwiſe, 'tis not to be hoped for. Pray tell me, you that live as <hi>Anti<g ref="char:EOLhyphen"/>podes</hi> to the Saints on Earth, can you hope to be <hi>im<g ref="char:EOLhyphen"/>bodied</hi> with thoſe in Heaven? You that hate and per<g ref="char:EOLhyphen"/>ſecute the Saints on Earth, can you hope ever to be joined with them that are in Heaven? You that are all for the Society of Sinners below, can you expect to be admitted into the Society of Saints above? ſurely you cannot ſo groſly impoſe upon your ſelves! At death there is <hi>a ſorting</hi> of all Men into their <hi>ſeveral Companies:</hi> the Wicked go to the Wicked, the Godly to the God<g ref="char:EOLhyphen"/>ly; the former to their Predeceſſors and Companions in Sin; the latter, to their Predeceſſors and Compa<g ref="char:EOLhyphen"/>nions in Sin; the latter, to their Predeceſſors and Compa<g ref="char:EOLhyphen"/>nions in Grace and Holineſs. Oh let the Conſideration hereof prevail with us, to put away Sin, and to engage
+<pb n="36" facs="tcp:94322:21"/>in all ſerious Piety! <hi>Be Followers of them who through Faith and Patience inherit the Promiſes;</hi>
+                  <note place="margin">Heb. 6.12.</note> that you may be gathered to them when you die,<note place="margin">pſal. 125.5.</note> and not rank'd <hi>amongst the Workers of Iniquity.</hi>
+               </p>
+               <p n="2">2. It may be improved,<note place="margin">
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſe</hi> 2.</note> 
+                  <hi>to ſupport against the Fear of Death.</hi> How are many, through this Fear, <hi>all their Life Time ſubject unto Bondage!</hi> Hebr. 2.15. But if ye be <hi>Abraham</hi>'s <hi>Seed</hi> and <hi>Children,</hi> why ſhould it be thus with you?</p>
+               <p>Here are in the Words of my <hi>Text three</hi> notable <hi>An<g ref="char:EOLhyphen"/>tidotes againſt this Fear:</hi>
+               </p>
+               <p n="1">1. What is Death? 'tis but <hi>the giving up of the Ghost;</hi> the expiring of the Breath; and that's all (to the San<g ref="char:EOLhyphen"/>ctified and holy): And is this a Thing ſo much to be fea<g ref="char:EOLhyphen"/>red? Every Breath that comes from thee, is a kind of Death; when 'tis the <hi>last Breath</hi> then it's <hi>Death,</hi> (there's all the Difference).<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Theſſ 4.14. Iſa. 57 2. 2 Cor. 5<g ref="char:punc">▪</g>4. phil. 1.23.</note> Elſewhere 'tis but a <hi>Sleep,</hi> a <hi>lying down in Bed,</hi> an <hi>uncloathing,</hi> a <hi>Departing:</hi> Oh what mollifying Expreſſions doth the Scripture ſet forth, Death by! and all to keep down our inordinate Fear of it.</p>
+               <p n="2">2. <hi>All (ſooner or later) are ſubject to it.</hi> 'Tis not we <hi>alone</hi> that die, all are Companions with us in this. The <hi>Patriarchs, Prophets, Apoſtles,</hi> nay <hi>Christ</hi> himſelf, all died: and ſhall we be afraid to walk in that Path which ſo many have trod before us? When <hi>Phocion</hi> ſaw one, who was to die with him, afraid to die; <hi>What</hi> (ſays he) <hi>art thou not glad to fare as</hi> Phocion <hi>does?</hi>
+                  <note place="margin">Plutarch. in Apoth.</note> So when <hi>A<g ref="char:EOLhyphen"/>braham gave up the Ghoſt and died,</hi> (with innumerable others), ſhall we be overwhelmed with Fear when it ſhall be our turn to die?</p>
+               <p n="3">3. <hi>After the Dying comes the Gathering.</hi> That Death that breaks our <hi>Company below,</hi> advances us to far better
+<pb n="37" facs="tcp:94322:21"/>
+                  <hi>Company above.</hi> It takes the Key of Heaven (as it were) and lets us into the Society of <hi>Saints</hi> and <hi>Angels,</hi> yea of <hi>God</hi> himſelf, and the bleſſed <hi>Ieſus.</hi> And ſhall we then<note n="*" place="margin">Ejus eſt morieim <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>imere, qui ad Chriſtum noll<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <hi>Cyprian.</hi>
+                  </note> fear to die? Oh let's get above this!</p>
+               <p n="3">3. <hi>Let all God's People rejoyce in the Thoughts of Hea<g ref="char:EOLhyphen"/>ven.</hi>
+                  <note place="margin">
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſm</hi> 3.</note> What a Place and State will that be to ſuch! when you ſhall be gathered into the <hi>Fellowſhip</hi> of the glorified Saints; ſhall ſee <hi>Abraham, Iſaac, Iacob</hi> (with all the reſt of that vaſt Body); ſhall converſe with them and have Communion with them in the praiſing, admiring and magnifying of God for ever: what a tranſcendent Happineſs will this be! Here your Company is <hi>mixt,</hi> there none but Saints ſhall be with you. Here your Company is often <hi>afflictive</hi> to you, there it ſhall be who<g ref="char:EOLhyphen"/>ly <hi>rejoicing</hi> to your Souls. Here, the Beſt you con<g ref="char:EOLhyphen"/>verſe with have their <hi>Infirmities;</hi> there, all ſhall be <hi>perfect.</hi> Here, you ſee <hi>this</hi> and <hi>that Saint,</hi> (ſcattered as a little good Grain in the midſt of a Field of Tares); there you ſhall ſee the <hi>whole. Body</hi> of Saints from firſt to laſt. The Sight of <hi>one</hi> St. <hi>Paul</hi> would be a bleſſed Sight; but to ſee <hi>all</hi> the <hi>Apoſtles,</hi> all the <hi>Martyrs</hi> and <hi>Confeſſors,</hi> all the great Inſtruments of God's Glory (an<g ref="char:EOLhyphen"/>cient and modern)? Lord, what a tranſporting and raviſhing Sight will that be! How ſhould the ſerious Senſe of this both fill up our Joy, and alſo inflame our Deſires after Heaven! How divinely does the Oratour ſpeak! <hi>O bleſſed Day, when I ſhall go to that divine Socie<g ref="char:EOLhyphen"/>ty and Convention of Souls,</hi>
+                  <note place="margin">O praeclarum diem, cù ad illud di inum Animarum Concillium coetumq e proficiſcar; &amp; cùm ex hac turba &amp; colluvione diſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>edam! <hi>Tul.</hi> de Sen.</note> 
+                  <hi>and ſhall be freed from thoſe Crowds &amp; filthy Perſons that are here!</hi> had he ſuch Notions of a future State, and of the Happineſs thereof? what Notions ſhould we have of it!</p>
+               <p>
+                  <pb n="38" facs="tcp:94322:22"/>
+And yet that which I have been upon, is but the <hi>leaſt</hi> of Heaven. To be <hi>gathered</hi> to the <hi>glorified Saints,</hi> is very good; ah! but to be <hi>gathered</hi> to <hi>God,</hi> to <hi>Christ?</hi> to be admitted into the immediate <hi>Preſence, Viſion,</hi> and <hi>Fruition</hi> of theſe? ſurely this is incomparably better! This is the Heaven of Heavens, the very <hi>Top</hi> and <hi>Ze<g ref="char:EOLhyphen"/>nith</hi> of Glory. And this ſhall be the Felicity of all who are ſincere with God: 1 <hi>Theſſ.</hi> 4.17. <hi>So ſhall we ever be with the Lord: Having a Deſire to depart, and to be with Christ, which is far better.</hi> Philip. 1.23. <hi>In thy Preſence is Fullneſs of Joy, at thy right Hand are Pleaſures for evermore,</hi> Pſal. 16.11. Oh therefore, you who fear God and walk with him (as the great Inſtance in the Text did), how may you comfort your ſelves in this! and what cauſe have you, to ſay, <hi>My Soul doth magnify the Lord —. Bleſs the Lord, ô my Soul, and all that is within me, bleſs his holy Name.</hi>
+               </p>
+            </div>
+            <div type="example">
+               <pb n="39" facs="tcp:94322:22"/>
+               <p>THe firſt part of my Work is diſpatch'd; I go on to the ſecond. The Example which the Text pro<g ref="char:EOLhyphen"/>pounds, I have done with; I come now to that Ex<g ref="char:EOLhyphen"/>ample, which the Providence of God ſets before us this day.</p>
+               <p>You all expect I ſhould ſay ſomething of that Anti<g ref="char:EOLhyphen"/>ent, Faithful, Eminent Miniſter of Chriſt, and Ser<g ref="char:EOLhyphen"/>vant of God, Mr. <hi>Thomas Caſe,</hi> whoſe Funerals (in the <hi>Religious Part</hi> of them) we now ſolemnize.</p>
+               <p>Concerning him therefore, I will,</p>
+               <list>
+                  <item>1. <hi>Give a brief A count of his Life and Death.</hi>
+                  </item>
+                  <item>2. <hi>Then give a more particular Narrative of him, in his ſeveral Capacities.</hi>
+                  </item>
+               </list>
+               <p>Not to inſtance in the <hi>Time</hi> and <hi>Place</hi> of his <hi>Birth,</hi> he was the Son of a Miniſter in <hi>Kent;</hi> (a Perſon emi<g ref="char:EOLhyphen"/>nent in his time for Parts and Piety). This he teſtified, as in all other things, ſo in his great Care to give this his Son a pious and religious Education: which he was the more excited and encouraged unto, upon his per<g ref="char:EOLhyphen"/>ceiving of thoſe more than ordinary buddings and bloſſomings of Grace and Ingenuity, that were in him in his Childhood.</p>
+               <p>When he was grown up, and ſit to be ſent abroad, he was put to School; firſt at <hi>Canterbury,</hi> then at <hi>Merchant-Taylors</hi> School (in this City). And there he was continued, until his Father, meeting with Trou<g ref="char:EOLhyphen"/>bles and Embroy Iments in his Eſtate, (by Law-Suits
+<pb n="40" facs="tcp:94322:23"/>and other Occaſions), was forced to remove him from theſe Nurſeries, and to take him home to him<g ref="char:EOLhyphen"/>ſelf; where he gave him all that Inſtruction in the <hi>Arts</hi> and <hi>Languages,</hi> that his many Diverſions would ad<g ref="char:EOLhyphen"/>mit of.</p>
+               <p>Having arrived at a Competency of Age and Lear<g ref="char:EOLhyphen"/>ning,<note place="margin">Adde p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<g ref="char:EOLhyphen"/>ſent &amp; alij haud pauci, ab eruditione merito cele<g ref="char:EOLhyphen"/>brandi; qua<g ref="char:EOLhyphen"/>les. credide<g ref="char:EOLhyphen"/>rim—, <hi>Tho<g ref="char:EOLhyphen"/>mam Caſe,</hi> &amp;c. <hi>Antiq. <g ref="char:V">Ʋ</g>niv. Oxon.</hi> l. 2. p. 283.</note> he was ſent to the Univerſity, admitted in <hi>Chriſt-Church</hi> in <hi>Oxford,</hi> (that Famous Society); where his Induſtry and Proficiency was ſuch, as that, by the <hi>Dean</hi> and <hi>Canons</hi> (then being), he was unanimouſly elected <hi>Student</hi> of that Houſe. There he reſided till he had commenc'd <hi>Maſter of Arts,</hi> and a Year or two after.</p>
+               <p>From thence (he now being in a conſiderable mea<g ref="char:EOLhyphen"/>ſure fitted for the Work of the Miniſtry), by the great Importunity of Mr. <hi>R. Herrick,</hi> (his moſt intimate and affectionate Friend), he was prevailed with to come to him, and to be with him at his Benefice in <hi>Norfolk.</hi> After ſome ſhort ſtay with him, he was called to the Exerciſe of his Miniſtry at <hi>Erpingham,</hi> (a Town in the ſame <hi>County</hi>). There he continued eight or ten Years; indefatigable in his Work, <hi>preaching</hi> twice every Lords-day, <hi>expounding</hi> the Holy Scriptures, <hi>catechiſing</hi> the Younger, <hi>repeating</hi> in private what he had delivered in publick. Hither many reſorted to him, to partake of his Labours; and God wonderfully ſucceeded them to the Converſion of many Souls.</p>
+               <p>But meeting with Troubles in that Dioceſs, (under <hi>Bp. Wren</hi>), he was forced to remove out of it. His fore-mentioned Friend, (being made <hi>Warden</hi> of <hi>Man<g ref="char:EOLhyphen"/>cheſter</hi>) took him into <hi>Lancaſhire</hi> with him: there in a ſhort time he was preſented to a Place in the <hi>Neigh<g ref="char:EOLhyphen"/>bouring County.</hi> But great Revolutions happening in
+<pb n="41" facs="tcp:94322:23"/>the Nation a little after, he was, (by the Urgency of ſome Perſons of Quality) perſwaded to accompany them to <hi>London:</hi> So Providence firſt brought him hither, and then fixed him here.</p>
+               <p>Here he was choſen firſt Lecturer, then Paſtor at <hi>Milk-Street;</hi> where, how laborious and faithful he was in his Lord's Work, many yet living can teſtify. Beſides his <hi>Lord's-day</hi>'s Pains in this Place, he preach'd a weekly Lecture every <hi>Saturday;</hi> (in order to Perſons being the better prepared for the Sabbath). And here he firſt ſet up the <hi>Morning Exerciſe;</hi> which has been kept up in this City (from place to place) ever ſince; (it too having lived to a <hi>good old Age,</hi> and not as yet <hi>given up the Ghost</hi>).</p>
+               <p>And not confining his Labours to this Pariſh, he alſo preached a Lecture at St. <hi>Martin's in the Fields</hi> every <hi>Thurſday;</hi> which he kept up above twenty Years.</p>
+               <p>In thoſe days, the <hi>Engagement</hi> being vehemently urg'd, and he refuſing to take it, he was put out of his Place at <hi>Milk-Street.</hi> But God would not have him to be idle; if one Door be ſhut upon him, another ſhall be opened. He was therefore called to preach as Lecturer, at <hi>Alderman-bury,</hi> and at St. <hi>Giles Cripple<g ref="char:EOLhyphen"/>gate.</hi> In which Congregations, he continued preach<g ref="char:EOLhyphen"/>ing Chriſt and the Goſpel, till he was ſent Priſoner to the <hi>Tower;</hi> (where he was confined about <hi>ſix Months</hi>). The Grounds of this Impriſonment, (wherein ſeveral others, of Name and Worth, were Companions with him; to <hi>Two</hi> of which, it ended in more than bare Impriſonment, in Death it ſelf); I ſay, the Grounds of this, are well known to all that know any thing of the Tranſactions of the late Times. We then thought they ſuffered for their <hi>Loyalty</hi> and <hi>Fidelity</hi> to
+<pb n="42" facs="tcp:94322:24"/>their <hi>Soveraign;</hi> if the preſent <hi>unkind Age</hi> have other Notions of it, we muſt ſubmit.</p>
+               <p>After his Releaſe he was invited to be Lecturer at St. <hi>Giles in the Fields.</hi> Mr. <hi>Moline</hi> (then Rector there) dying, he was choſe in his Stead. And ſo continued, till, upon <hi>his Majeſty's Reſtauration,</hi> the ancient <hi>Incum<g ref="char:EOLhyphen"/>bent</hi> was readmitted.</p>
+               <p>In the Year 1660 he was one of the Miniſters, de<g ref="char:EOLhyphen"/>puted by his Brethren in this City, to wait upon his Majeſty at the <hi>Hague,</hi> to congratulate his Reſtauration. With reſpect to which I may confidently ſay, as none (in his Sphere) did more cordially endeavour to pro<g ref="char:EOLhyphen"/>mote it, before it was accompliſhed; ſo none did more cordially rejoice in it, when it was accompliſh'd.</p>
+               <p>When that black and fatal Day, <hi>Aug.</hi> 24. 1662. came, he fared as the reſt of his Brethren did, (who were not ſatified to conform). Here his Miniſtry in Publick was at an end; yet (as God gave Opportuni<g ref="char:EOLhyphen"/>ty) he ceaſed not <hi>in Private</hi> to be doing all the good he could. And in this Diligence he held on, till the In<g ref="char:EOLhyphen"/>firmities of his great Age wholly diſabled him for any further Miniſterial Work.</p>
+               <p>One remarkable Paſſage of his Life muſt not be o<g ref="char:EOLhyphen"/>mitted; (I hope, the Recital of bare Matter of Fact will give no Offence). He was a Member of that <hi>Aſ<g ref="char:EOLhyphen"/>ſembly,</hi> which, in the Year 1643, was called by the <hi>Parliament</hi> (as then ſitting) to adviſe in Matters of Re<g ref="char:EOLhyphen"/>ligion. And I think, he liv'd to ſurvive all of that Bo<g ref="char:EOLhyphen"/>dy, (one only excepted).</p>
+               <p>I have gone over the ſeveral <hi>Turns</hi> and <hi>Motions</hi> of his Life, and led you from one Stage to another of it: 'tis the laſt only that remains yet to be ſpoken unto.</p>
+               <p>It pleaſed God, (the great <hi>Arbiter vitae &amp; necis</hi>) to
+<pb n="43" facs="tcp:94322:24"/>lengthen out his Life to a very old Age: He lived to<note n="*" place="margin">Tully's <hi>Age.</hi> Quartum an<g ref="char:EOLhyphen"/>num ago &amp; octogeſimum. <hi>Lib. de Sen.</hi>
+                  </note> 84 Years, and then <hi>died.</hi> On <hi>May</hi> 30th laſt paſt he <hi>finiſhed his Courſe;</hi> and on <hi>June</hi> 14th was decently in<g ref="char:EOLhyphen"/>terr'd in <hi>Chriſt Church</hi> in this City. And now, how is my <hi>Text</hi> exemplified in <hi>him</hi> as well as in <hi>Abraham!</hi> He <hi>gave up the Ghost, and died:</hi> how willingly did he reſign up his Soul to God! Death found no Reſiſtance from him, (alas! he had been long deſiring and waiting for it); he quietly and readily yielded to it. And what an <hi>eaſy Death</hi> did God bleſs him with! The Oil was ſpent, ſo the Lamp went out. There was no Sickneſs, no Pain, no Groans, or Agonies at the laſt; he juſt breathed out his laſt Breath, and that was all. It's ſaid of <hi>Jacob, when he had made an end of commanding his Sons, he gathered up his Feet into the Bed, and yielded up the Ghost,</hi> Gen. 49.33. Juſt thus it was with our deceaſed Father; for riſing from Dinner he deſired ſome repoſe upon his Bed; where, as ſoon as ever he was laid, he <hi>gathered up his Feet,</hi> and <hi>ſo yielded up the Ghoſt.</hi> This facil Death he had much deſired, and of<g ref="char:EOLhyphen"/>ten prayed for, and he had it: <hi>Sortitus eſt facilem exitum, &amp; qualem ſemper optaverat;</hi> (as the Hiſtorian of <hi>Augu<g ref="char:EOLhyphen"/>ſtus</hi>).</p>
+               <p>And he <hi>died in a good old Age.</hi> Good, as to the <hi>Greatneſs</hi> of it: Good, as to the <hi>Health</hi> and Strength of it; (a few Years indeed before his Death, his Limbs were much enfeebled, his Memory much impair'd; but till then, he had as much Vegetenes and Vigor every way, as could be expected in one of his Years). Good, in the <hi>beſt Sence,</hi> as it <hi>ſucceeded a well-ſpent Life,</hi> and as it was fill'd up with <hi>gracious and holy Actings to the Laſt.</hi> He began with God <hi>betimes,</hi> and he kept cloſe to God <hi>to the End.</hi>
+               </p>
+               <p>
+                  <pb n="44" facs="tcp:94322:25"/>
+And now he is <hi>gathered to his People;</hi> tranſlated into the <hi>bleſſed State,</hi> gone to the <hi>general Aſſembly, and Church of the Firſt-born, to the Spirits of just Men made perfect.</hi> Taken up <hi>to his People;</hi> to thoſe now in Glory, who by his Miniſtry were converted: (and oh what rejoi<g ref="char:EOLhyphen"/>cing is there, in Them to ſee their <hi>Spiritual Father;</hi> in Him to ſee the <hi>Children</hi> that God has given him!) He has now a view of all the glorified Saints, and is one of them: Yea, he has now the Viſion of God himſelf, and of his dear Redeemer. What he wrote in his <hi>Piſgah</hi> about Heaven, he has now the experimental Know<g ref="char:EOLhyphen"/>ledg of. He that died in <hi>Abraham</hi>'s <hi>good old Age,</hi> now lies in <hi>Abraham</hi>'s <hi>Boſom.</hi> He that was a decay'd and de<g ref="char:EOLhyphen"/>crepit Man here on Earth, with what Strength and Vi<g ref="char:EOLhyphen"/>gour is he loving, praiſing, adoring God in Heaven! Holy was his Life, and happy was his Death. He is with God, and ſo ſhall be <hi>for ever.</hi>
+               </p>
+               <p>Thus I have given you a ſhort Narrative of his <hi>Life</hi> and <hi>Death;</hi> but a more particular and diſtinct Account of him, as to what <hi>he was,</hi> muſt be further added. And in order to this, I will conſider him in a <hi>fourfold Capa<g ref="char:EOLhyphen"/>city.</hi>
+               </p>
+               <list>
+                  <item>I. <hi>As a Man.</hi>
+                  </item>
+                  <item>II. <hi>As a Chriſtian.</hi>
+                  </item>
+                  <item>III. <hi>As a Miniſter.</hi>
+                  </item>
+                  <item>IV. <hi>As ſtanding in ſuch and ſuch Relations.</hi>
+                  </item>
+               </list>
+               <p>In the Characteriſing of him under theſe <hi>Heads,</hi> I will keep cloſe to the Truth, and ſay nothing but what I apprehend to be truly ſo. And as I would not dimi<g ref="char:EOLhyphen"/>niſh his Merit, and any way leſſen his real Worth, (which would be diſingenuous towards him); ſo nei<g ref="char:EOLhyphen"/>ther will I advance it above its juſt Pitch and Meaſure; (for that would be injurious to my ſelf).</p>
+               <p n="1">
+                  <pb n="45" facs="tcp:94322:25"/>
+I. Let's conſider him as <hi>a Man.</hi> So he was one, whom God had endowed with <hi>excellent Parts, (Natu<g ref="char:EOLhyphen"/>ral</hi> and <hi>Acquir'd:</hi> (ſome I know are not of my Opinion in this; be it ſo, they have their Liberty of judging, and I have mine). He was very happy in a <hi>good</hi> and <hi>quick Invention;</hi> which firſt furniſh'd him with <hi>ſmart Notions</hi> (upon all Occaſions), and then with <hi>apt Ex<g ref="char:EOLhyphen"/>preſſions</hi> to utter them: and this too was attended, in a good Proportion, with a <hi>ſolid Judgment.</hi> It's very rare, for one and the ſame Perſon to be <hi>eminent</hi> in <hi>all the Accompliſhments</hi> that are proper to the ſeveral Fa<g ref="char:EOLhyphen"/>culties; Strength of <hi>Reaſon,</hi> Depth of <hi>Iudgment,</hi> Quick<g ref="char:EOLhyphen"/>neſs of <hi>Fancy,</hi> Retentiveneſs of <hi>Memory,</hi> ſeldom con<g ref="char:EOLhyphen"/>cur in the ſame Subject; we value him who is <hi>eminent</hi> in any <hi>One</hi> of theſe, though he be not ſo in the <hi>Rest</hi> too. I ſpeak very modeſtly of our <hi>deceaſed Friend</hi> when I make this to be his Caſe; (but of the two I chuſe ra<g ref="char:EOLhyphen"/>ther to go <hi>too low</hi> than <hi>too high</hi>). Towards the Cloſe of his Life, when the Infirmities of a great Age were upon him, there was a <hi>ſenſible Decay</hi> in his Parts; yet even then it might be ſeen what he had been in the Prime of his Days; (as the Glory of <hi>Carthage</hi> might be diſcern'd in the Ruins of it).</p>
+               <p>For his <hi>Natural Temper,</hi> he had <hi>fervidum Ingenium,</hi> a pritty quick and warm Spirit; zealous he was for, or againſt, what he approv'd or diſapprov'd; (eſpecially if God and Religion were concern'd therein). And this, in the late <hi>unhappy Controverſies,</hi> expos'd him to ſevere Cenſures from more than <hi>One Party;</hi> (whether juſtly or not, 'tis not for me to determine). Onely this I would ſay for him, if ſometimes undue Heat did pre<g ref="char:EOLhyphen"/>vail in him, either in Words or Actions, much Allow<g ref="char:EOLhyphen"/>ance is to be given for it to his natural Temper.</p>
+               <p>
+                  <pb n="46" facs="tcp:94322:26"/>
+And further he was an <hi>open, plain-hearted Man;</hi> One, who was totally a Stranger to thoſe little Arts and Frauds, thoſe ſubtile Reſerves and Pretences, which the World is too full of. He knew much of other things, but as to <hi>Diſſimulation,</hi> I think he knew as little of that as any. What Opinion he embraced, he never concealed; and what Affection prevailed, he uſually diſcloſed. He was ſo honeſt and true, as al<g ref="char:EOLhyphen"/>ways <hi>to think what he ſpake;</hi> and (for the moſt part) ſo un-reſerv'd, as to <hi>ſpeak what he thought.</hi> He could (I queſtion not) had he pleaſed, have acted the <hi>Wiſ<g ref="char:EOLhyphen"/>dom of the Serpent,</hi> as well as others; but he was whol<g ref="char:EOLhyphen"/>ly for the <hi>Simplicity of the Dove;</hi> (If this was a Fault, pray pardon it; there are but few that err on this hand).</p>
+               <p>In his <hi>Converſes,</hi> he was hearty, affectionate, all Love and Kindneſs; not moroſe and magiſterial, but affable and obliging; not vain and frothy, yet facetious and pleaſant; not confining to himſelf what might be uſeful to others, but very communicative. He was ſomewhat haſty and paſſionate, but his Paſſion was ſoon over; An<g ref="char:EOLhyphen"/>ger <hi>reſted</hi> not in him, the Fire was quenched as ſoon as kindled; (the ſooner the better)! Many other <hi>Characters</hi> of him might be heaped up; but theſe few are ſufficient to give a ſhort view of him, conſidered as <hi>a Man.</hi>
+               </p>
+               <p n="2">2. As <hi>a Chriſtian;</hi> and ſuch he was not in <hi>Title</hi> and <hi>Profeſſion</hi> only, but in <hi>Truth</hi> and <hi>Reality;</hi> (ſo far as we can judge) a <hi>truly gracious and upright Man.</hi> How ſincere, eminent, conſpicuous, were all the ſeveral Graces in him!</p>
+               <p>He was an ardent <hi>Lover of God,</hi> of <hi>Goodneſs,</hi> and of all <hi>Good Men.</hi> His <hi>Fear of Sin,</hi> and of offending God, was very great; his <hi>Publick Miniſtry</hi> was very dear to
+<pb n="47" facs="tcp:94322:26"/>him, yet when he could not enjoy it without ſubmit<g ref="char:EOLhyphen"/>ting to that which <hi>to him</hi> was ſinful, (not that he judg'd <hi>others</hi> by himſelf), he patiently laid it down. His Heart was full of <hi>Penitential Brokenneſs:</hi> how often have I ſeen him pouring forth Tears, in the Confeſſion of his own and other Mens Sins! His <hi>Zeal</hi> for God, was exceeding high; (wherein his <hi>natural Fervour</hi> was helpful to him): he could quietly bear his own Sufferings, all the Indignities offered to himſelf; but when he ſaw God diſhonoured, the Go<g ref="char:EOLhyphen"/>ſpel reproached, the Truth thereof oppoſed and under<g ref="char:EOLhyphen"/>min'd, the good way of Holineſs evilly ſpoken of, this he could not bear without great Commotion of Spi<g ref="char:EOLhyphen"/>rit. He <hi>minded Heaven</hi> more than <hi>Earth;</hi> (as appears by that ſmall Eſtate which he left, after he had been in the Miniſtry ſo long, and in ſuch conſiderable Places for Gain and Profit). He had a <hi>large Heart</hi> for Charity, (had his Purſe been equal to it). His <hi>Communication</hi> was <hi>ſavoury</hi> and edifying; and altho, (as has been hinted) he ſometimes would be facetious in his Di<g ref="char:EOLhyphen"/>courſes, yet ſo, as that always he would <hi>miſcere utile dulci;</hi> mingle that which ſhould profit with that which ſhould delight. Under his greateſt bodily Infirmities at the laſt, when any came to viſit him, he would ſtill be dropping ſome ſpiritual and heavenly Matter into them. Who more <hi>ſenſible</hi> of the <hi>Church's Calamities</hi> and <hi>Diſtreſſes</hi> than he? Oh how did he uſe to melt and diſſolve in Prayer, when he was ſpreading the Con<g ref="char:EOLhyphen"/>cerns of <hi>Zion</hi> before the Lord! He was indeed a <hi>pray<g ref="char:EOLhyphen"/>ing Man;</hi> one that was <hi>frequent</hi> and <hi>fervent</hi> in this bleſſed Duty. Not contented with the <hi>ſtated</hi> and more <hi>ordinary</hi> Performance of it, how did he ſet apart, upon ſpecial Occaſions and more than common Emer<g ref="char:EOLhyphen"/>gencies,
+<pb n="48" facs="tcp:94322:27"/>
+                  <hi>whole days</hi> to be ſpent in ſolemn calling upon God! And when he himſelf, in his old Age, was much diſabled for Prayer he would ſcarce let any Mini<g ref="char:EOLhyphen"/>ſter (who came to viſit him) go from him, till he had pray'd with him. Indeed, his firſt Converſion be<g ref="char:EOLhyphen"/>gan <hi>with this;</hi> and ſo too, it continued with this. It pleaſed God, (as he himſelf related it to me) to work upon him <hi>betimes,</hi> when he was but <hi>ſix Years</hi> old. And at that Age, through the Influence of Divine Grace, he was inclin'd by himſelf, every Morning and Evening, to pray: And this he did, not by the help of any <hi>Book</hi> or <hi>Form</hi> (read or remembred); but by the graci<g ref="char:EOLhyphen"/>ous Aſſiſtance of the Holy Spirit: Nay, this he did, not upon any <hi>Precept</hi> or <hi>Direction,</hi> either from his Father or any other Perſon; but ſolely upon God's drawing of his Heart to it: (So as that of <hi>Tertullian</hi> is very applicable to him, — <hi>Sine Monitore, quia de Pectore</hi>). Some things I am credibly informed of, re<g ref="char:EOLhyphen"/>lating to his <hi>managing of Prayer</hi> with others, when he was grown to eight Years of Age; but fearing many will not believe them, and many will turn them into Ridicule and Deriſion; I judg it beſt not to mention them. By what I have ſaid it appears, <hi>that from a Child of ſix Years, to an aged Man of</hi> 84. <hi>Years, he kept a conti<g ref="char:EOLhyphen"/>nued, uninterrupted Courſe of Prayer.</hi>
+               </p>
+               <p>Several other Graces ſhining in him might be in<g ref="char:EOLhyphen"/>ſtanc'd in: As his great <hi>Love to Ordinances;</hi> how did it afflict him in his confined Condition that he could not enjoy theſe! His <hi>patient waiting</hi> for his long-deſired, but long-delaied Releaſe, was very admirable. (But I graſp at too much! theſe, with ſome other of the like nature, I muſt paſs over).</p>
+               <p>
+                  <pb n="49" facs="tcp:94322:27"/>
+By what I have (or ſhould further have) ſaid, do I deſign to repreſent him as one that was <hi>perfect?</hi> Good, and unmixtly Good? Oh no! He had his <hi>dark ſide</hi> as well as his <hi>bright ſide,</hi> his <hi>Corruptions</hi> as well as his <hi>Graces,</hi> his <hi>Infirmities</hi> as well as his <hi>Excellencies:</hi> And where ſhall we find the Perſon with whom 'tis not thus? He was a good Man, yet <hi>but a Man;</hi> he was in the State of Grace, but it was but in the <hi>imperfect State</hi> of Grace. I would give him his due Worth, (which was very great); but yet ſo as not to advance him above what he was. And the truth is, when I conſi<g ref="char:EOLhyphen"/>der his <hi>Natural Temper,</hi> the <hi>Perſonal Infirmities</hi> which he lay under, (which have been glanc'd at), the many Temptations which he, as well as others, was aſſaul<g ref="char:EOLhyphen"/>ted with, I conclude, <hi>all his Grace was little enough for him:</hi> Nay, aſſuredly it would have been too little, had not an <hi>higher Grace been ſufficient for him.</hi>
+               </p>
+               <p n="3">3. As <hi>a Miniſter:</hi> And as he ſtood in this Capacity, his Worth and Eminency cannot but be ſo well known in this City, (where he exerciſed his Miniſtry, in Publick and in Private, about forty Years); as that it will be ſuperfluous for me to ſay much about it. In ſhort there<g ref="char:EOLhyphen"/>fore, he was an excellent Miniſter of Chriſt; who, if he be not to be rank'd amongſt the <hi>firſt three,</hi>
+                  <note place="margin">2 Sam. 23.23.</note> (the moſt famous and eminent of our Preachers in <hi>England</hi>), yet he may well be look'd upon as <hi>more honourable than the Thirty.</hi>
+               </p>
+               <p>His <hi>Miniſterial Abilities</hi> were very conſiderable. He was another <hi>Apollos, an eloquent Man, and mighty in the Scriptures;</hi> a Scribe, <hi>inſtructed unto the Kingdom of Heaven;</hi> in whom the <hi>Word of God dwelt richly;</hi> out of which <hi>Treaſure</hi> he ever brought <hi>things new and old.</hi>
+               </p>
+               <p>
+                  <pb n="50" facs="tcp:94322:28"/>
+He was as <hi>Scriptural Preacher;</hi> had a ſingular Happi<g ref="char:EOLhyphen"/>neſs in citing of Texts pertinent to the Matter he was upon, and then in the opening and applying of them. And as his Preaching was <hi>ſolid</hi> and <hi>judicious,</hi> ſo it was <hi>acute</hi> too; fill'd up with quick and nimble Invention: He would ſharpen plain, practical Doctrines, with con<g ref="char:EOLhyphen"/>ſiderable mixtures of Ingenuity and Fancy. His great deſign in his Miniſtry was, not to <hi>perplex</hi> his Hearers, but to <hi>edify</hi> them; not to fill them with quaint <hi>Notions</hi> and <hi>Speculations,</hi> but with <hi>ſerious</hi> and <hi>important Truths;</hi> not to pleaſe their <hi>Ears,</hi> but to better their <hi>Hearts,</hi> and awaken their <hi>Conſciences;</hi> not to advance his own <hi>Reputation,</hi> but the <hi>eternal Salvation</hi> of them who heard him.</p>
+               <p>So long as God ſpared him Strength, none more conſtant and frequent in Preaching than he; and when God laid him aſide, that he could preach no more, what an Affliction was that to him! And his Frequen<g ref="char:EOLhyphen"/>cy in it, did not leſſen his Pains in due preparing for it; his Sermons were well weighed and ſtudied, (he not daring to <hi>offer to the Lord that which cost him nothing.</hi>
+               </p>
+               <p>What a great Man he was in <hi>Prayer,</hi> all they can teſtify who ever joyned with him therein. Indeed, God had endowed him with an admirable Gift as to this; (I firmly hope it was ſomething more than a <hi>bare Gift</hi>). He was ſeverely <hi>Orthodox, ſound in the Faith</hi> to a degree of Rigor, a thorough pac'd <hi>Calviniſt,</hi> a firm Adherer to, and Aſſertor of the <hi>Doctrine</hi> of our <hi>Church;</hi> (though he differed as to ſome <hi>Rites</hi> and Ce<g ref="char:EOLhyphen"/>remonies impoſed in it): And herein he ſtood ſted<g ref="char:EOLhyphen"/>faſt and unmovable to his laſt Breath.</p>
+               <p>God bleſſed his Labours where-ever he came, with <hi>conſiderable Succeſs.</hi> In all Places, whither the Provi<g ref="char:EOLhyphen"/>dence
+<pb n="51" facs="tcp:94322:28"/>of God carried him, he had the Seals of his Mi<g ref="char:EOLhyphen"/>niſtry in the Converſion of many Souls. There are many now in Heaven, many yet remaining here on Earth, who with Comfort can call him their <hi>Spiritual Father.</hi>
+               </p>
+               <p>He has not publiſhed much of his Labours; but what he has<note n="*" place="margin">His <hi>Piſgah.</hi> Corrections, Inſtructions. Sermons upon particular Oc<g ref="char:EOLhyphen"/>caſions.</note> publiſhed, ſhows him to be an able, <hi>Practical Divine.</hi>
+               </p>
+               <p n="4">4. I come to the fourth and laſt thing, to conſider him in his <hi>Relative Capacity:</hi> In which, he was as praiſe-worthy, and does as much deſerve Imitation, as in any of the foregoing Conſiderations of him.</p>
+               <p>God bleſt him with a pious and prudent <hi>Conſort;</hi> (I muſt ſay no more of her, becauſe ſhe is yet living): And what an high degree of Love was there betwixt them! Indeed, they may be Patterns and Examples of Conjugal Affection and Concord to all who knew them. They lived together near 45 Years; and how often have I heard him ſay, <hi>In all that time there had been no Contention betwixt them, except in this, who ſhould love one another most.</hi>
+               </p>
+               <p>He had no <hi>Children</hi> of his own; but his Wives Chil<g ref="char:EOLhyphen"/>dren he was as tender over, and as affectionate unto, as if they had been his own. His Love to them, and Care of them, was ſcarce to be parallell'd, ſure not to be exceeded. And how he pray'd for them, inſtructed them, us'd all means for their Spiritual Good, I hope they will never forget.</p>
+               <p>He had other <hi>Relations</hi> of <hi>his own;</hi> ſome of which, by Providence were caſt upon him, for his Care and Relief. And he was a Father to them, at once caring for their Bodies and Souls too.</p>
+               <p>
+                  <pb n="52" facs="tcp:94322:29"/>
+And as to his <hi>whole Family,</hi> he was ever careful of the Souls of all that came under his Roof; in inſtructing them in the Principles of Religion, in helping them to underſtand the Scriptures; which were read in his Fa<g ref="char:EOLhyphen"/>mily Morning and Evening. And his Method was, to cauſe every Child and Servant to remember ſome<g ref="char:EOLhyphen"/>thing that had been read; which he would then in a plain and familiar way, open to them, and ſo pro<g ref="char:EOLhyphen"/>ceed to Prayer. He had many Servants, who lived with him, that bleſs God that ever they came into his Houſe.</p>
+               <p>I have parallell'd him with <hi>Abraham</hi> in his <hi>Death;</hi> I might, (with a <hi>ſalvâ diſtantiâ</hi>) alſo parallel him with <hi>Abraham</hi> in his <hi>Life:</hi> as they <hi>died alike,</hi> ſo they <hi>lived alike.</hi> I'll go no further than the thing laſt men<g ref="char:EOLhyphen"/>tioned. <hi>Abraham</hi> is famous for his Zeal about his Family; God himſelf has put an high Character upon him for this: <hi>Gen.</hi> 18.19. <hi>For I know him, that he will com<g ref="char:EOLhyphen"/>mand his Children, and his Houſhold after him, and they ſhall keep the way of the Lord, to do Juſtice and Judgment; that the Lord may bring upon</hi> Abraham <hi>that which he hath ſpoken of him.</hi> And juſt thus it was with our <hi>Reverend Father,</hi> (allowing the Diſparity betwixt Perſon and Perſon).</p>
+               <p>Well, I have ſhewn you what a Man <hi>he was,</hi> who <hi>died in a good old Age, an old Man, full of Years, and is now gathered to his People.</hi> Nothing now remains but a word of <hi>Exhortation.</hi>
+               </p>
+               <p n="1">1. <hi>To Chriſtians;</hi> to you, who move in a private Orb. Many things might be ſuggeſted to you, upon the death of this aged and faithful Servant of God; but I ſhall commend this only to you, <hi>Prize good Miniſters while you have them, and be afflicted when you loſe
+<pb n="53" facs="tcp:94322:29"/>them.</hi> How many Mercies do you deprive your ſelves of, by your <hi>undervaluing</hi> them? And particularly, how many <hi>good Miniſters</hi> are <hi>removed</hi> from you, becauſe you do not put ſuch a value upon them as you ought? When God takes them away, then you ſee the worth of them, but not till then. Did not ſome of you ſit under the Minſtry of him, who is now dead and gone? Pray, was his <hi>Perſon, Miniſtry, Labours,</hi> prized and eſtimated according to what they deſerved? True, he lived to a great Age; but I fear, the Lives of many others are <hi>ſhortened,</hi> by that ſlighting of them which they meet with from their People. Wherefore I be<g ref="char:EOLhyphen"/>ſeech you, <hi>to know them which labour among you, and are over you in the Lord, and admoniſh you; and to eſteem them highly in Love for their Work's ſake.</hi> And further, ſo <hi>prize</hi> them as <hi>to improve them;</hi> ſo as to thrive and profit by them. <hi>Do the Prophets live for ever?</hi> your faithful Guides and Teachers, do they not die? <hi>Now</hi> you have them, in a few days they are taken from you; does it not then concern you to make the beſt of their Labours whilſt you partake of them? How many Mini<g ref="char:EOLhyphen"/>ſters have you worn out and ſpent! and are you not at all the better for them? The better the Miniſter, is un<g ref="char:EOLhyphen"/>der whom you are placed, the worſer it will be with you, if you be barren and unprofitable under him.</p>
+               <p>And then, <hi>Be afflicted for, bewail and lament the loſs of good Miniſters.</hi> Indeed this is a great loſs! (whe<g ref="char:EOLhyphen"/>ther ye conſider the <hi>Benefits</hi> ye percieve by them; or the <hi>Evils</hi> that this does preſage and boad): and there<g ref="char:EOLhyphen"/>fore, ſhould it not be laid to Heart? Indeed, as to our <hi>deceaſed Brother,</hi> (his great Age and Circumſtances being conſidered); you have more reaſon to rejoyce for that he <hi>lived ſo long,</hi> than to mourn that he <hi>died at laſt.</hi>
+                  <pb n="54" facs="tcp:94322:30"/>Ah! but how many eminent Inſtruments are cut off, when they are young, in their<note n="*" place="margin">Mr. <hi>Char<g ref="char:EOLhyphen"/>nock,</hi> Mr. <hi>Stock<g ref="char:EOLhyphen"/>ton,</hi> &amp;c.</note> 
+                  <hi>beſt State?</hi> or when they are but juſt<note n="†" place="margin">As lately, that uſeful Miniſter, and faithful Ser<g ref="char:EOLhyphen"/>vant of God, Mr. <hi>Richard Fairclough.</hi>
+                  </note> 
+                  <hi>entred</hi> upon a conſiderable Age? Oh, when ſuch die, with what grief of Soul ſhould that be reſented by all ſerious Chriſtians!</p>
+               <p n="2">2. <hi>To Miniſters:</hi> My Brethren, you ſee how your number is leſſened day by day; the <hi>ancient Oaks</hi> and <hi>Cedars</hi> are almoſt all cut down: and what is the Duty now of you who ſurvive? Surely, to <hi>double</hi> and <hi>tre<g ref="char:EOLhyphen"/>ble</hi> your <hi>Diligence</hi> in your Lord's Work; the fewer Hands are left, the more laborious thoſe muſt be that are left; when other Pillars are removed, the more Weight does lie upon thoſe which ſtand; the fewer there are to preach the everlaſting Goſpel, the more induſtrious they muſt be in this, who are yet ſpared. The <hi>Antient</hi> die, where are the <hi>Young</hi> Ones to ſucceed them? to ſtand in their ſtead, and to fill up the Vacan<g ref="char:EOLhyphen"/>cies made by their Death? Bleſſed be God for it, ſome ſuch there are; (and they too, Perſons of excel<g ref="char:EOLhyphen"/>lent Accompliſhments for the Work of the Miniſtry): God increaſe their Number, and double the Spirit of his old <hi>Elijah</hi>'s upon them! that ſtill there may be a Succeſſion of faithful <hi>Labourers in the Lord's Harveſt.</hi>
+               </p>
+               <p n="3">3. <hi>To Relations;</hi> (the near and dear Relations of the Deceaſed). What ſhall I ſay to you? ſhall I preſs <hi>Patience</hi> and <hi>Submiſſion</hi> upon you, under this loſs? Certainly, (his Condition being conſidered) even his neareſt Relation, (though ſhe has the greateſt ſhare in it), needs no Excitation to Patience. Had he been taken away when he was in the Prime of his Days, then the Affliction would have been very great; then all Motives to quiet Submiſſion to God's Will, had been little enough; but when it was otherwiſe,
+<pb n="55" facs="tcp:94322:30"/>I hope there's not the leaſt riſing of Impatience in you. Your Duty is, <hi>Thankfulneſs,</hi> and <hi>Imitation: Thank<g ref="char:EOLhyphen"/>fulneſs,</hi> that ever you had him, and that you enjoyed him ſo long: <hi>Imitation,</hi> ſo as to tread in his Steps, and to write after that excellent Copy that he has ſet you. And you that are <hi>Young,</hi> pray remember the Tears he ſhed for you, the holy Counſel and Admonition he gave you, that great Love that he expreſſed to you; and let all prevail with you, to love God, the People of God, and to engage with your whole Heart in ſeri<g ref="char:EOLhyphen"/>ous and univerſal Godlineſs. And then, if you be Followers of him, as he is <hi>gathered to his People,</hi> to <hi>his God</hi> and <hi>Saviour;</hi> ſo, whenever your Dying time ſhall come, (as God alone knows how ſoon it will come), you ſhall be made Partakers with him of the <hi>fame Felicity.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
